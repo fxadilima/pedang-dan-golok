@@ -1,11 +1,12 @@
 ---
+import DinastiYuan from './parts/era/DinastiYuan.md';
 export const title = 'Home';
 ---
-
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/png" href="/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta name="generator" content={Astro.generator} />
 		<title>Golok Pembunuh Naga | {title}</title>
@@ -15,9 +16,12 @@ export const title = 'Home';
 		<main class="w3-main w3-container">
 			<div class="w3-content">
 				<h1>Golok Pembunuh Naga</h1>
-				<div class="w3-bar">
-					<a href="/README" class="w3-btn w3-bar-item w3-hover-black">README</a>
-					<a href="/yttlj/intro" class="w3-btn w3-bar-item w3-hover-black">Intro</a>
+				<div class="w3-bar w3-card-4">
+					<a href="/README" class="w3-btn w3-bar-item w3-black w3-hover-red">README</a>
+					<a href="/yttlj/intro" class="w3-btn w3-bar-item w3-black w3-hover-red">Intro</a>
+				</div>
+				<div class="w3-container">
+					<DinastiYuan/>
 				</div>
 			</div>
 		</main>

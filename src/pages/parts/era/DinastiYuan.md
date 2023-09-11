@@ -1,8 +1,7 @@
 ---
-layout: ../layouts/Books.astro
-title: Golok Pembunuh Naga - README 
+title: Golok Pembunuh Naga - Dinasti Yuan
 author: FX. Adi Lima
-description: Dokumentasi Golok Pembunuh Naga
+description: Golok Pembunuh Naga di jaman Dinasti Yuan
 ---
 
 # Menuju Dinasti Yuan
