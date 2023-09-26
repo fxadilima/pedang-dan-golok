@@ -1,8 +1,9 @@
-# 🦅 Pedang Langit dan Golok Pembunuh Naga
+# 🦅 Kisah Pedang Langit dan Golok Pembunuh Naga
 
 Judul dalam bahasa Indonesia ini diambil dari judul drama karya TVB, Heaven Sword and The Dragon Sabre,
 sedangkan judul aslinya adalah Yitian Tulong Ji[^yitian-tulongji].
 
+[^yitian-tulongji]: Yi Tian Tu Long Ji (倚天屠龙记, atau 倚天屠龍記), sharusnya diterjemahkan ke dalam bahasa Indonesia menjadi 'Kisah Bergantung pada Kehendak Tuhan untuk Membunuh Naga'. Tetapi karena berbagai alasan, terutama sekali karena dalam cerita selalu menyebutkan Yi Tian Jian (倚天剑), dan Tu Long Dao (屠龙刀), keduanya berarti 'Pedang Surga' dan 'Golok Pembunuh Naga', maka kita sebaiknya memakai judul bahasa Indonesia yang sekarang kita pakai.
 
 ## Dinasti Yuan
 
