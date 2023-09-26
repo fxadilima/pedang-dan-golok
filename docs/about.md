@@ -35,18 +35,18 @@ keluarga, mereka sebenarnya cukup bersaing, dan bukan saling mendukung. Koke Tem
 berkuasa sebagai Khan, bukan seperti Chaghan Temur yang adalah pejabat Dinasti Yuan yang setia dan menghabiskan 
 waktunya di medan tempur.
 
-Cerita Yitian Tulong Ji[^judul-1] dibuka dengan pendahuluan dari era menjelang berdirinya Dinasti Yuan, yaitu ketika 
-[Zhang Sanfeng](#zhang-sanfeng) masih berada di Shaolin di bawah bimbingan Jue Yuan Dashi, dan bertemu dengan 
-Guo Xiang, putri kedua dari Guo Jing, yang saat itu baru lolos dari maut dalam peperangan yang menewaskan 
-Khan Agung Mongolia saat itu, yaitu Mongke Khan, kakak kandung Kubilai. Tentunya saat itu Perguruan Wudang 
-masih belum terbentuk.
+Cerita Yitian Tulong Ji[^yitian-tulongji] dibuka dengan pendahuluan dari era menjelang berdirinya Dinasti Yuan, 
+yaitu ketika [Zhang Sanfeng](#zhang-sanfeng) masih berada di Shaolin di bawah bimbingan Jue Yuan Dashi, dan 
+bertemu dengan Guo Xiang, putri kedua dari Guo Jing, yang saat itu baru lolos dari maut dalam peperangan yang 
+menewaskan Khan Agung Mongolia saat itu, yaitu Mongke Khan, kakak kandung Kubilai. Tentunya saat itu Perguruan 
+Wudang masih belum terbentuk.
 
 Saat itu sebenarnya Guo Xiang sedang patah hati. Ia diam-diam telah jatuh hati kepada Yang Guo yang akhirnya bersatu 
 kembali dengan istrinya, Xiao Longnu, yang dinikahinya tak lama setelah Guo Xiang dilahirkan. Yang Guo akhirnya
 memilih untuk mengasingkan diri dan menghilang dari dunia persilatan.
 
-Guo Xiang hanya satu-dua tahun lebih tua dari Zhang Sanfeng. Saat itu Zhang Sanfeng masih berusia sekitar enam atau 
-tujuh belas tahun, dengan alis tebal, mata besar, dan tubuhnya sangat jangkung. Ini membuat Zhang Sanfeng sempat 
+Guo Xiang hanya satu-dua tahun lebih tua dari Zhang Sanfeng. Saat itu Zhang Sanfeng masih berusia sekitar tiga atau 
+empat belas tahun, dengan alis tebal, mata besar, dan tubuhnya sangat jangkung. Ini membuat Zhang Sanfeng sempat 
 mengenal dan mempelajari sebagian ilmu tenaga dalam yang disebut Jiu Yang Shen Gong[^jiuyang-shengong]. Pengetahuannya 
 memang tidak lengkap, tetapi dengan pengetahuan itu ia memberi Zhang Wuji dasar-dasar yang diperlukan untuk menyembuhkan 
 diri dari cedera berat ketika masih berusia sepuluh tahun akibat pukulan dari Xuanming Er Lao[^xuanming].
