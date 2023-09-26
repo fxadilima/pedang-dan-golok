@@ -55,9 +55,26 @@ diri dari cedera berat ketika masih berusia sepuluh tahun akibat pukulan dari Xu
 
 [^xuanming]: Xuan Ming Shen Zhang (玄冥神掌) adalah ilmu silat milik Xuan Ming Er Lao (玄冥二老), sepasang kakak beradik seperguruan yang bekerja untuk Chaghan Temur. Mereka masing-masing adalah Lu Zhangke (鹿杖客) dan He Biweng (鶴筆翁). Di sini kita sebut saja 'Telapak Dewa Xuanming'.
 
+## Dinasti Yuan
+
+Dinasti Yuan didirikan oleh cucu Genghis Khan, yaitu Kubilai Khan, setelah berhasil menumbangkan Dinasti Song Selatan.
+
+Tokoh tiga jaman, Zhang Sanfeng yang mendirikan Wudang Pai[^wudang-pai] adalah saksi peristiwa-peristiwa yang 
+terjadi mulai dari menjelang berdirinya Dinasti Yuan sampai akhirnya tumbang dan digantikan oleh Dinasti Ming.
+
+[^wudang-pai]: Wudang Pai (武当派 atau tradisional: 武當派) atau Perguruan Wu Dang, dalam dialek Hokkian biasa ditulis menjadi 'Butong Pai'. Zhang Sanfeng (张三丰) dalam dialek Hokkian adalah Thio Sam Hong.
+
+Cerita silat Yitian Tulong Ji atau dalam bahasa Indonesia lebih kita kenal sebagai Pedang Langit dan Golok Pembunuh Naga
+diawali dengan cuplikan cerita tentang Guo Xiang, putri kedua dari pasangan pendekar Guo Jing dan Huang Rong[^sdyxz-1] yang 
+berjuang hingga tetes darah terakhir untuk mempertahankan kota Xiang Yang dari gempuran para prajurit Mongolia, dan
+ditutup dengan cuplikan sejarah ketika Zhu Yuanzhang menumbangkan Dinasti Yuan yang didirikan oleh Kubilai Khan.
+
+[^sdyxz-1]: Kisah mengenai pasangan pendekar Guo Jing dan Huang Rong bisa dibaca di novel [🦅 Memanah Rajawali](https://fxadilima.github.io/memanah-rajawali).
+
+
 ## Zhang Sanfeng
 
-Zhang Sanfeng (張三丰) adalah seorang pemuda tanggung yang baru berusia 16 atau 17 tahun ketika bertemu dengan Gua Xiang.
+Zhang Sanfeng (張三丰) adalah seorang pemuda tanggung yang baru berusia 13 atau 14 tahun ketika bertemu dengan Guo Xiang.
 Ia bernaung di Shaolin sebagai penjaga perpustakaan, dan di bawah bimbingan Jue Yuan Dashi. Para biksu Shaolin mengenalnya
 sebagai Zhang Junbao (張君寶).
 
