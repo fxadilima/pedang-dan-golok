@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: 🦅 Kisah Pedang Langit dan Golok Pembunuh Naga
 permalink: /about/
 ---
 
-# 🦅 Kisah Pedang Langit dan Golok Pembunuh Naga
 
 Judul dalam bahasa Indonesia ini diambil dari judul drama karya TVB, Heaven Sword and The Dragon Sabre,
 sedangkan judul aslinya adalah Yitian Tulong Ji[^yitian-tulongji].
