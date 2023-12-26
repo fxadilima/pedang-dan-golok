@@ -13,7 +13,6 @@ sebuah wilayah, meskipun di bawah komando ayahnya.
 
 Setelah dewasa, Minmin memilih nama dari suku Han, yaitu Zhao Min, yang inspirasinya diambil dari nama pemberian Kaisar.
 
-
 [^shaomin]: Karakter Shao dalam gelar Shao Min Junzhu (少敏君主) itu bisa diartikan 'kecil', dengan demikian gelar ini kurang lebih berarti 'Putri Minmin Kecil'. Junzhu adalah gelar kehormatan bagi seorang bangsawan perempuan.
 
 Zhao Min sangat cerdas, dan dalam keseharian ia suka mengenakan setelan pria. Secara alamiah ia suka memimpin dan sangat
@@ -27,6 +26,10 @@ membuat mereka bekerja sama dengan kekaisaran.
 
 Semua usahanya terlihat berjalan mulus, sampai akhirnya ia bertemu dengan Zhang Wuji. Tanpa sadar ia telah jatuh cinta,
 dan sejak itu kehidupannya berubah.
+
+## Latar Belakang Keluarga dan Era
+
+Zhao Min dilahirkan di masa suram bagi semua orang, ketika itu bendungan yang Sungai Kuning meluap dan menyebabkan 
 
 Artikel belum lengkap, [kembali ke daftar karakter](/parts/people) atau ke [halaman utama](/).
 
