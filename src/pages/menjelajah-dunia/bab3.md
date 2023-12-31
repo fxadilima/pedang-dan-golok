@@ -816,7 +816,7 @@ Ketiga orang itu menghabiskan waktu berhari-hari di tempat kediaman keluarga Zha
 politik sambil bergurau dan terkadang pembicaraan berubah menjadi perdebatan cukup sengit, lalu kembali lagi menjadi
 gurauan. Xiao Lan selalu ikut mendengarkan dengan penuh minat, meskipun ia tidak mengerti apa yang sedang mereka bicarakan.
 
-Zhou Zhiruo tentang rencana untuk mengunjungi keluarga Zhao Min di Henan kepada Zhang Wuji. Tetapi suaminya tidak
+Zhou Zhiruo menceritakan tentang rencana untuk mengunjungi keluarga Zhao Min di Henan kepada Zhang Wuji. Tetapi suaminya tidak
 setuju jika ia mengelola tempat ini dengan hanya ditemani oleh para pengikut mereka. Situasi politik yang tak menentu itu
 membuatnya merasa mereka sebaiknya tetap bersama, karena setiap saat bisa saja terjadi perubahan yang tak terduga. Ia
 tidak ingin berpisah dengan kedua istrinya. Dan ia juga melihat bahwa kedatangan ketiga orang tamu itu telah membuat
@@ -899,7 +899,73 @@ Xu Da dan Chang Yuchun?"
 "Huh," dengus Zhou Dian. "Keparat itu pasti akan menyuruh orang untuk mengatakan bahwa dia tidak ada di tempat. Mungkin saja
 Xu Da dan Chang Yuchun akan menemui kita, tapi Zhu Yuanzhang tidak akan berani!"
 
+"Menemui Zhu Yuanzhang bukan ide yang buruk," kata Fan Yao. "Sekarang ini kurasa saat yang tepat, sebelum dia menjadi kaisar,
+yaitu kalau memang dia yang nantinya menjadi kaisar. Dengan begitu dia akan tahu pasti apa yang akan terjadi seandainya
+dia _terlalu_ menyimpang dari keadilan."
 
+Zhao Min dan Zhou Dian yang sejak awal tidak menyukai Zhu Yuanzhang mulai tergerak. "Sayangnya sekarang ini aku tidak bisa
+pergi seenaknya. Kalau tidak, aku pasti akan memberinya pelajaran," kata Zhao Min. Ia melihat ke arah Xiao Lan yang sedang
+bermain-main dengan kedua adiknya di dekat mereka.
+
+Tiba-tiba Zhou Dian berkata, "Kalian pernah melihat istri Zhu Yuanzhang? Maksudku yang pertama, dia selalu ada di barak
+militer. Dia dikenal sebagai 'Kaki Besar'."
+
+"Ah, Zhou Dage, soal Kaki Besar ini, kurasa semua wanita di Jianghu memang berkaki besar," kata Zhou Zhiruo. "Aturan mengenai
+kaki kecil itu sungguh bodoh!"
+
+"Tapi Ma Xiuying itu bukan wanita Jianghu," kata Zhou Dian. "Dia sama sekali tidak mengerti ilmu silat."
+
+Di masa itu rata-rata wanita suku Han di Zhong Yuan memang diharuskan untuk membungkus kaki mereka sedemikian rupa, sehingga
+kaki mereka tidak dapat berkembang dengan sempurna sejak masih kecil. Tentu saja para wanita di dunia persilatan tidak dapat
+mengikuti aturan ini.
+
+"Ma Xiuying itu sebetulnya bisa menjadi teman baik kita," kata Zhang Zhong. "Kudengar dia baik."
+
+Mata Zhao Min berkedip sedikit. Ia seolah tersenyum, tetapi ternyata ia tidak sedang tersenyum. "Daozhang," katanya. "Kali ini
+kau sungguh-sungguh berbuat baik bagi rakyat. Kusarankan mulai sekarang kalian berusaha menjalin hubungan baik dengan
+Ma Xiuying. Tapi tidak perlu secara langsung."
+
+Semua mata menatapnya dengan pandangan bertanya-tanya. Saat itu seorang pelayan datang mengantarkan kue-kue buatan
+Zhou Zhiruo. Zhou Dian segera menyambar sepotong kue yang rasanya sangat manis dan berkata, "Zhao Furen, kalau punya
+usul lebih baik kau bicara terus terang. Terlalu banyak teka-teki begini membuatku lapar."
+
+"Zhou Dage, kau bisa makan apapun juga sepuasnya di sini. Tidak usah malu-malu," kata Zhou Zhiruo sambil tersenyum. "Aku
+membuat banyak sekali makanan seperti ini."
+
+Saat itu Xiao Lan berlari mendekat dan ingin mengambil kue bertabur wijen yang sangat disukainya. Ibunya langsung
+menatapnya dengan penuh teguran. Zhao Min mengambil sebuah piring kecil dan mengisinya dengan beberapa potong kue,
+lalu memberikannya kepada Xiao Lan. "Nah, kau boleh makan ini bersama adikmu, tapi jangan berikan kepada Xiao Wu, dia
+belum bisa makan kue seperti ini."
+
+"Kita bisa menggali dan sekaligus menyampaikan informasi yang menurut kita penting kepada Ma Furen ini melalui para
+anggota Ming Jiao yang masih aktif di militer dan bergabung dengan pasukan Zhu Yuanzhang. Dengan begini, kita tidak
+perlu bertemu langsung dengan dia, dan aku yakin cara ini justru lebih baik daripada secara langsung menemuinya,"
+jelas Zhao Min setelah Xiao Lan pergi dengan gembira.
+
+Zhou Dian menepuk pinggiran meja dengan penuh semangat. "Ini bagus sekali!" serunya. Sejak pengkhianatan yang dilakukan
+Zhu Yuanzhang, sebetulnya mereka mulai kehilangan semangat untuk mendukung perjuangan, apalagi kemudian Zhang Wuji 
+memutuskan untuk mengundurkan diri, dan diikuti oleh Yang Xiao. Wei Yixiao mulai berkeliaran di Jianghu tanpa tujuan
+pasti, Peng Yingyu terluka parah dalam pertempuran di kubu Chen Youliang dalam upayanya menolong Xu Shouhui. Baru kali
+ini mereka melihat sebuah gagasan baru yang menimbulkan harapan. "Biarkan istrinya sendiri yang mendidik bangsat bermarga
+Zhu itu!" lanjut Zhou Dian.
+
+Zhang Wuji juga mulai bersemangat ketika mendengar gagasan Zhao Min.
+
+Sejak itu mereka mulai mengumpulkan informasi sebanyak mungkin mengenai keluarga Zhu Yuanzhang, yang selama ini tidak begitu
+mereka perhatikan. Ternyata Ma Xiuying saat itu sudah melahirkan tiga anak laki-laki yang kira-kira sebaya dengan Xiao Lan.
+Dua anak yang pertama lebih tua dari Xiao Lan, yang ketiga hampir seusia, sementara yang keempat ternyata sebaya dengan
+Zhang Xiao Han. Ma Xiuying sendiri lebih tua dibandingkan dengan Zhou Zhiruo dan Zhang Wuji, dengan demikian agak jauh
+dibandingkan Zhao Min.
+
+Selain Ma Xiuying, ternyata saat itu Zhu Yuanzhang punya seorang istri yang kurang lebih sebaya dengan Zhao Min, dan sudah
+memberinya seorang putri yang seusia dengan Xiao Han. Wanita ini bermarga Sun, putri dari salah seorang pejabat Dinasti Yuan,
+dan ia sangat cantik.
+
+Fan Yao tertawa terbahak-bahak ketika menceritakan mengenai istri kedua Zhu Yuanzhang ini. "Dia sendiri menikahi seorang 
+anak dari pejabat Dinasti Yuan, dan waktu itu dia terus-terusan mengkritik Junzhu!" katanya.
+
+Sebenarnya Zhao Min sudah pernah mendengar berita ini dari Ah Da, tetapi ia sengaja membiarkan mereka menemukannya
+sendiri. Ketika mendengar komentar Fan Yao, ia hanya tersenyum tanpa mengatakan apa-apa.
 
 <div class="w3-bar">
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
