@@ -1181,3 +1181,534 @@ Kasim Wang kemudian meminta bantuan beberapa kasim lain untuk mengumpulkan semua
 membungkusnya dengan rapi, lalu segera memerintahkan anak buahnya untuk membawa semua bahan itu kepada petugas yang
 bertanggungjawab untuk mengolah obat-obatan istana, lengkap dengan instruksi dari Zhang Wuji tentang cara mengolahnya.
 
+Zhang Wuji melihat bahwa kondisi kaisar hanya bisa membaik jika ia bersedia berhenti mengkonsumsi obat-obatan yang
+diberikan oleh Kasim Wang itu, tetapi kemungkinan besar kaisar sendiri akan menolak. Karena itu ia kemudian tetap
+menyuruh Kasim Wang mencari 'Tabib Han' yang meracik obat itu, lalu ia sengaja menulis sebuah resep, yang pada 
+dasarnya berisi ramuan obat untuk menguatkan tubuh dan mengembalikan vitalitas orang.
+
+Setelah itu ia mengatakan kepada Kaisar dan Permaisuri Qi bahwa ia perlu memberikan terapi akupuntur bagi Sang Kaisar,
+dan menjelaskan proses semacam apa yang akan dilakukannya. Pada saat itu praktek akupuntur sudah lumrah dilakukan
+para tabib di mana-mana, dan para pejabat maupun kaisar Dinasti Yuan juga sudah pernah menjalani terapi ini. Kaisar
+bisa menerima penjelasannya dan bersedia menjalani terapi itu.
+
+Yang dilakukan Zhang Wuji sebenarnya adalah membuat Sang Kaisar merasa rileks dan nyaman, sementara reaksi negatif
+dari obat-obatan yang pernah dikonsumsinya sedang aktif. Ia kemudian meminta Zhou Zhiruo untuk mengajarkan teknik
+membuat sup yang dicampur obat-obatan herbal yang rasanya sangat enak kepada para koki yang bertugas di dapur.
+Tindakan ini selain mendukung pemulihan fisik kaisar, juga akan membuatnya merasa bahwa ia sedang mengkonsumsi
+obat yang jauh lebih baik ketimbang obat-obatan yang sesungguhnya merusak dari Kasim Wang. Zhang Wuji sengaja
+memasukkan beberapa unsur yang memiliki aroma mendekati beberapa bahan yang terdapat di dalam ramuan yang diberikan
+oleh Kasim Wang.
+
+Sementara itu, Zhao Min bergerak untuk menyelidiki apa yang dilakukan oleh Kasim Wang, dengan perantaraan pelayan
+yang dikenalnya dengan baik. Pelayan itu kemudian menghubungi Ah Da, Ah Er dan Ah San, supaya mengikuti kasim suruhan
+Kasim Wang. Tanpa kesulitan berarti, akhirnya mereka berhasil membongkar fakta bahwa 'Tabib Han' yang akhirnya datang
+ke istana itu sebenarnya adalah orang suruhan Kasim Wang. Permaisuri Qi menangani sendiri masalah ini tanpa harus
+mengganggu Kaisar Toghon Temur. Dengan demikian berita tentang sakitnya Sang Kaisar ini tidak tersiar keluar.
+
+Berdasarkan pengakuan si 'Tabib Han' itu Permaisuri Qi kemudian menangkap Kasim Wang dan secara pribadi menginterogasinya
+di ruangan tertutup. Awalnya Kasim Wang yang akhirnya mengakui perbuatannya, tidak mau mengatakan dengan siapa ia
+bekerja sama. Ia mengatakan bahwa semua itu adalah gagasannya sendiri, karena ia merasa sakit hati harus dikebiri
+dan dijadikan kasim di istana. Matanya berkedip sedikit ketika Permaisuri Qi menyodorkan sebuah simbol yang diganbar
+di atas kertas, tetapi ia masih tetap bungkam.
+
+Ketika akhirnya Permaisuri Qi menyodorkan selembar kain lusuh yang penuh tambalan, ia juga masih tetap bungkam, tetapi
+matanya bergerak liar ke kiri-kanan seolah-olah sedang sibuk mencari jalan keluar. Kali ini Permaisuri Qi merasa sudah
+mendapat jawaban yang diinginkannya, lalu meninggalkan ruangan. Ia menyuruh orang untuk memasukkan Kasim Wang ke penjara
+sementara menunggu instruksi selanjutnya.
+
+Keluarga Zhang Wuji akhirnya tertahan di istana dengan tugas untuk memulihkan kesehatan Kaisar Toghon Temur. Dengan
+kecepatan yang mengagumkan sebuah ruangan besar disiapkan bagi mereka sebagai tempat tinggal di areal istana. Tempat
+itu sangat teduh, dan dikelilingi taman yang berisi berbagai tanaman yang berfungsi sebagai obat-obatan herbal.
+Tampaknya tempat ini sengaja dibuat untuk mengembangkan penelitian obat-obatan. Tempat yang mereka tinggali boleh
+dibilang sangat mewah. Secara khusus Permaisuri Qi menyiapkan satu regu pelayan untuk menyediakan segala keperluan
+mereka sehari-hari. Sekelompok pengawal juga bertugas di luar areal itu untuk memastikan keluarga mereka tidak
+diganggu.
+
+"Seperti tawanan di rumah mewah," bisik Zhou Zhiruo ketika melihat pengawal itu. Tapi ia tampak santai dan mengabaikan
+kehadiran para pengawal itu sama sekali.
+
+"Kita toh tidak punya rencana untuk bepergian ke tempat lain," kata Zhang Wuji sambil tersenyum. "Kalau kau mau, 
+sekarang juga kita bisa kabur dari tempat ini. Tapi aku justru ingin tahu siapa yang ada di balik semua ini. Kuharap
+kau tidak keberatan dengan gangguan kecil begini."
+
+"Aku mana bisa keberatan?" kata Zhou Zhiruo. "Sejak kecil aku hidup dalam tekanan di Emei. Ding Minjun menyuruhku
+melakukan banyak pekerjaan sampai aku tidak punya waktu untuk berlatih kungfu. Mana ada kemewahan seperti ini. Hanya
+saja, tadinya aku membayangkan Xiao Lan akan lahir di tepian Sungai Hanshui, sekarang kelihatannya dia malah dibesarkan
+di istana." Ia tertawa. "Lao Tianye sungguh-sungguh suka bercanda."
+
+Zhao Min meletakkan telunjuknya di depan mulut. "Semua dinding di sini bertelinga," bisiknya. Ia berkata agak nyaring,
+"Sekarang kurasa Xiao Lan sudah lapar, giliranmu sungguh-sungguh 'bekerja'." Saat itu Xiao Lan memang tiba-tiba menangis.
+
+Zhou Zhiruo segera menyusuinya sambil tertawa. "Mungkin kau mau berbagi tugas yang ini?" katanya.
+
+Zhao Min dengan sengaja melingkarkan kedua tangannya di leher Zhang Wuji dan berkata sambil tertawa. "Kurasa aku
+mau berbagi tugas yang lain."
+
+Zhang Wuji yang sudah terbiasa dengan cara mereka bercanda hanya tertawa. Ia kemudian bertanya dengan suara rendah,
+"Apa yang ditemukan Permaisuri Qi?"
+
+"Kau boleh lega," jawab Zhao Min. "Ini ulah Chen Youliang."
+
+Kain lusuh yang penuh tambalan itu adalah lambang Kai Pang. Setelah melihatnya, Kasim Wang tahu bahwa yang dimaksud
+adalah Chen Youliang. Sebenarnya sudah sejak lama Kasim Wang berkolusi dengan Cheng Kun, yang adalah guru silat
+Chen Youliang. Setelah Cheng Kun sendiri tertangkap di Shaolin, Chen Youliang masih terus memanfaatkan hubungan baik
+gurunya dengan Kasim Wang untuk kepentingannya sendiri. Tentu saja semua ini tidak ada kaitannya dengan Kai Pang
+sama sekali, tetapi bagi Kasim Wang, simbol Kai Pang selalu berarti Chen Youliang.
+
+Pada saat itu baik Chen Youliang dan Zhu Yuanzhang sebetulnya punya tujuan yang sama, yaitu menggulingkan Dinasti Yuan.
+Tetapi jalan mereka berbeda, Chen Youliang punya basis yang lebih kokoh karena sebelumnya Cheng Kun, gurunya, menjalin
+kerja sama dengan Chaghan Temur. Dalam hal ini Chaghan sama sekali tidak peduli latar belakang atau tujuan Cheng Kun,
+yang hanya ingin menjatuhkan Ming Jiao. Sepanjang kerja sama itu bisa merusak basis para pemberontak, hal itu sudah
+cukup bagi Chaghan. Dan kalau pun tujuan Cheng Kun adalah merusak Ming Jiao, bukankah itu justru lebih baik lagi?
+
+Karena pada saat itu Chen Youliang hanyalah murid Cheng Kun, maka sebenarnya Chaghan sama sekali tidak mengenalnya.
+Sama sekali di luar dugaan Chaghan, setelah ia kalah dalam serbuan ke Shaolin, dan Cheng Kun menghilang dari peredaran,
+Chen Youliang kemudian muncul di pihak para pemberontak. Chaghan sendiri kemudian disibukkan dengan gerakan pasukan Wu 
+yang dipimpin oleh Zhu Yuanzhang di selatan. Ia menilai gerakan Xu Shouhui di sekitar Dadou lebih pasif dibandingkan
+dengan Zhu Yuanzhang, Xu Da, dan Chang Yuchun yang didukung oleh banyak ahli silat dari Wulin. Pasukannya kalah dan
+gagal menghabisi mereka di Shaolin, setelah itu mereka semakin merajalela dan membangkitkan para pemberontak baru
+di mana-mana. Hal ini sangat merepotkan Chaghan. Sebagai akibatnya perhatian Chaghan tersita untuk mengurus masalah
+di selatan dan tidak memperhatikan aktifitas Chen Youliang di utara.
+
+Satu hal yang sama sekali tidak diketahui oleh Chaghan adalah, Chen Youliang masih terus berkolusi dengan Kasim Wang
+untuk merusak Dinasti Yuan dari dalam. Rencana ini memang berjalan lambat dan tidak kentara. Secara rutin mereka
+meracuni Kaisar Toghon Temur melalui Kasim Wang, orang dalam istana yang paling dekat dengan kaisar. Ketika melihat
+reaksi negatif narkotika yang mereka berikan itu semakin nyata, Chen Youliang juga mulai bergerak untuk menyingkirkan
+atasannya, Xu Shouhui. Pada saat itu Koke Temur yang mengenalnya sejak Cheng Kun masih aktif, mendukung rencananya.
+Pertama-tama Koke Temur membuat kesan seolah-olah Ming Jiao yang membunuh beberapa anggota Kai Pang. Hal ini membuat
+hubungan Ming Jiao dengan Kai Pang menjadi rusak. Kai Pang yang sibuk menyelidiki urusan ini tidak lagi aktif
+menjalankan misi mereka untuk mendukung gerakan Xu Shouhui di utara. Dengan demikian, ketika Chen Youliang bergerak
+untuk melawan Xu Shouhui, serbuannya berjalan mulus. Ia berhasil menduduki tahta Xu Shouhui.
+
+Lalu apa yang diperoleh Koke Temur dalam kerja sama itu? Hal inilah yang membingungkan Zhao Min, dan gagal dipahaminya
+sampai sekarang. Karena nyatanya tidak ada, atau setidaknya belum terlihat.
+
+Saat itu semua orang di dunia persilatan tidak tahu pasti ke mana Zhang Wuji pergi. Yang Xiao sengaja tidak mengumumkan
+pengunduran dirinya karena ia kuatir para pendukung Zhang Wuji akan mengundurkan diri dari gerakan pemberontakan setelah
+tahu Zhang Wuji pergi. Tetapi ia juga sadar bahwa urusan ini tidak bisa disembunyikan terlalu lama. Mereka memang selalu 
+tahu di mana Zhang Wuji berada, karena komunikasi surat dengan perantaraan burung merpati dengan sepuluh orang anggota
+Panji Lima Elemen yang mengikuti Zhang Wuji masih terjalin. Tetapi belakangan komunikasi itu berhenti, tampaknya
+Zhang Wuji berpindah tempat, dan ia kehilangan jejak.
+
+Sama sekali tak terpikirkan oleh Yang Xiao bahwa keluarga Zhang Wuji saat ini sedang berada di dalam istana kekaisaran.
+Dan bukan hanya Yang Xiao, bahkan Koke Temur pun tidak menduga bahwa saat itu Zhao Min berada di istana. Entah sengaja
+atau tidak, fakta tersebut tersembunyi dengan sangat rapi dari pihak luar. Karena posisi Permaisuri Qi sudah jelas
+lebih kuat ketimbang ayah Zhao Min, apalagi Koke Temur, maka Ah Da, Ah Er, dan Ah San, mendapat kesan bahwa keberadaan
+majikan mereka harus dirahasiakan dari pihak mana pun, dan mereka dengan setia mematuhi perintah Permaisuri Qi untuk
+merahasiakannya. Sedangkan Delapan Panah Dewa terang-terangan adalah anak buah Zhao Min yang setia, setelah mendengar
+perintah untuk tutup mulut, maka tak satu kata pun keluar dari mulut mereka.
+
+Sepuluh anggota Panji Lima Elemen Ming Jiao itu sudah hampir setahun mengikuti keluarga Zhang Wuji. Sejak Zhang Wuji
+menyelamatkan mereka dari tangan Miejue Shitai, semua orang, dari pemimpin sampai anggota terkecil, sudah bertekad
+untuk setia kepada Zhang Wuji. Yang mereka lihat adalah, Zhang Wuji dan kedua Furen, beserta anak mereka yang baru 
+lahir, masuk ke istana dengan sukarela dengan cara menyamar. Mereka sudah agak lama bergaul dengan para pengawal
+yang diutus oleh Permaisuri Qi. Ah Da, Ah Er dan Ah San sekarang tampaknya tunduk kepada perintah majikan mereka.
+Karena itu mereka sering mengobrol dengan semua orang ini, dan merasa bahwa mereka semua berada dalam satu kapal.
+Mendengar cerita dari orang-orang ini, kesepuluh anggota Ming Jiao itu lalu berkesimpulan bahwa mantan ketua mereka
+sedang menjalankan sebuah misi rahasia yang harus dirahasiakan dari siapa pun, seperti apa yang dikatakan oleh
+teman-teman baru mereka itu. Dan mereka pun ikut tutup mulut, dan tidak membocorkan hal ini kepada Yang Xiao.
+
+Ketika mendengar seorang pelayan istana memberikan perintah rahasia dari Zhao Min untuk membuntuti kasim yang 
+sedang mencari 'Tabib Han', kesepuluh anggota Ming Jiao itu bahkan dengan senang hati ikut bekerja sama dengan
+Ah Da, Ah Er dan Ah San untuk melaksanakan misi dari Xiao Furen mereka, yang tentu saja harus dianggap misi
+dari Zhang Wuji sendiri.
+
+Setelah memberikan terapi akupuntur yang sangat membantu kaisar untuk tenang dan bisa tidur dengan nyaman,
+Zhang Wuji kemudian menjelaskan bahwa mulai saat itu kaisar harus lebih sering bergerak. Ia terlalu lama duduk
+dan berdiam di ruangannya, membaca laporan, dan jarang keluar. Matahari pagi sangat baik bagi kesehatannya.
+Olah raga berupa latihan fisik sudah sangat lama ditinggalkannya. Mulai saat itu harus lebih sering dilakukan.
+
+Zhang Wuji juga mengalirkan tenaga dalamnya untuk mendukung kaisar dalam mengatasi rasa tidak nyaman yang timbul 
+akibat efek narkotika. Ia juga memberikan dasar-dasar Taiji, meskipun hanya sebagai olah raga yang menyehatkan,
+tetapi Sang Kaisar sangat menyukainya. Ketika melihatnya, banyak orang tertarik untuk belajar, dan akhirnya
+kaisar mengajak sekelompok kecil pengawal dan kasim untuk mengikuti latihan ini setiap hari. Ketika aktifitas
+ini menjadi populer di istana, bahkan para pelayan pun diikutsertakan. Zhao Min yang memimpin para pelayan
+wanita ini untuk berlatih sebelum mereka mulai bekerja.
+
+Tanpa sadar secara berangsur-angsur aktifitas ini membuat semua orang bergairah. Kondisi kaisar perlahan-lahan
+mulai membaik, emosinya terkendali, dan dalam waktu sekitar enam bulan kesehatannya pulih. Karena perubahan ini
+terjadi secara bertahap, orang-orang yang sedang merencanakan kekacauan di parlemen tidak menyadarinya sedikit pun. 
+Tetapi mereka tentu saja tahu bahwa sekarang Kasim Wang tidak lagi hadir di sisi kaisar, meski pun mereka tidak
+tahu penyebabnya.
+
+Sebenarnya Permaisuri Qi punya seorang kandidat dari deretan kasimnya sendiri untuk menggantikan Kasim Wang, tetapi
+ia kuatir hal itu akan membangkitkan kecurigaan dari pihak kaisar bahwa ia sedang merencanakan sesuatu untuk 
+menggantikan kaisar dengan Ayushiridara, seperti kabar yang tersiar di luar. Dengan bijaksana ia tidak menanyakan
+mengenai hal ini sampai kaisar sendiri yang memutuskan siapa yang akan menggantikan posisi Kasim Wang.
+
+Tak terasa keluarga Zhang Wuji yang merayakan Tahun Baru dan semua perayaan lain di dalam istana telah tinggal
+di situ selama lebih dari enam bulan. Xiao Lan mulai belajar makan bubur yang dihaluskan, giginya mulai tumbuh,
+dan ia mulai belajar memanggil Zhao Min 'Mama', dan memanggil Zhou Zhiruo 'Niang', dan memanggil Zhang Wuji 'Die'.
+Kaisar dan Permaisuri Qi memberikan banyak hadiah untuk Xiao Lan, mereka sangat menyukai anak ini.
+
+Zhou Zhiruo yang sudah pulih secara rutin kembali melatih tenaga dalamnya dan mendapat kemajuan yang sangat
+berarti. Ia sekarang tahu di titik mana ia mulai tersesat ketika mulai berlatih Jiu Yin Baigu Zhua dulu.
+Meskipun sekarang ia tetap menggunakan cambuk seperti yang pernah digunakan oleh Mei Chaofeng di masa lalu, 
+tetapi cara penggunaannya berbeda. Permainan cambuk Zhou Zhiruo sekarang lebih mendekati apa yang dipraktekkan
+oleh ketiga guru besar Shaolin yang pernah mereka lawan, tetapi tentunya memakai dasar yang diajarkan di dalam
+Jiu Yin Zhen Jing.
+
+Sementara itu jurus Taiji yang dilatih Zhao Min berkembang seiring dengan peningkatan tenaga dalamnya. Ketika
+Zhou Zhiruo dan Zhao Min berlatih bersama, mereka mulai menemukan cara untuk menggabungkan tenaga Yin dan Yang
+itu untuk saling mendukung. Sesuatu yang sebelumnya tidak berani diterapkan oleh Zhang Wuji, karena kedua
+ilmu ini sebetulnya bertentangan. Zhang Sanfeng sebenarnya mengajarkan Taiji kepada Zhou Zhiruo untuk menetralisir
+pengaruh jahat yang didapatnya dari Jiu Yin Baigu Zhua. Biksu Jueyuan yang menanamkan dasar kokoh bagi Zhang Sanfeng
+sebenarnya tidak punya teknik berkelahi. Yang dimilikinya adalah teori dasar Jiu Yang Shen Gong yang paling murni,
+tanpa niat untuk berkelahi. Tenaga dalam itu baru akan bereaksi jika ada orang yang dengan niat jahat memukulnya.
+Semakin keras pukulan itu, semakin keras juga tenaga yang terpantul kembali ke pemiliknya. Kalau pukulan itu
+tidak ada, dengan sendirinya juga tidak akan ada perkelahian, yang berarti tidak ada orang yang terluka. Dengan 
+prinsip inilah Zhang Sanfeng kemudian mengembangkan semua ilmu silatnya, hingga akhirnya mencapai puncaknya
+sebagai Taiji. 
+
+Mengenai tenaga dalam, Zhang Sanfeng tentu saja mengembangkan apa yang ditanamkan oleh Biksu Jueyuan, yaitu Jiu Yang
+Shen Gong, seperti yang akhirnya dikuasai secara lengkap oleh Zhang Wuji. Teori yang diingat oleh Zhang Sanfeng
+dan Guo Xiang tidak lengkap, karena itu akhirnya Wudang dan Emei berkembang ke arah yang berbeda. Tenaga dalam
+Emei dipengaruhi oleh Jiu Yin Zhen Jing yang dimiliki Guo Jing, meskipun juga tidak lengkap, karena pada saat itu
+Guo Xiang belum menguasainya.
+
+Saat ini Zhou Zhiruo terus memperdalam Jiu Yin Zhen Jing, sementara Zhao Min memperdalam apa yang ditanamkan oleh
+Zhang Sanfeng dan Zhang Wuji, yaitu Jiu Yang Shen Gong. Selama ini belum pernah ada orang yang menggabungkan
+kedua ilmu ini, dan barangkali tidak akan pernah ada. Tetapi mereka adalah dua orang yang berbeda. Yang mereka lakukan
+adalah saling mendukung dan saling menutup kekurangan di dalam satu pertempuran, seperti prinsip yang diterapkan
+oleh Xuanming Er Lao, Lu Zhangke dan He Biweng, ketika menghadapi lawan tangguh. Tapi kalau saat ini Xuanming Er Lao
+bertempur melawan Zhao Min dan Zhou Zhiruo, mereka akan sangat terkejut, dan tidak akan mampu mengatasi keduanya.
+
+Sebelumnya, selama sepuluh bulan Zhou Zhiruo tidak berani melatih tenaga dalamnya karena kuatir akan mengganggu
+kandungannya. Ia hanya memperdalam gerakan-gerakan Taiji sebagai olah raga sehari-hari. Ini membuat tenaga dalam
+Zhao Min yang semakin meningkat menjadi seimbang dengan tenaga dalamnya. Qing Gong Zhao Min yang sekarang juga
+seimbang dengan Zhou Zhiruo. Perbedaan nyata dari keduanya adalah dalam variasi gerakan Taiji. Zhao Min yang
+kreatif dan banyak akal punya lebih banyak variasi. Ia memasukkan unsur tipuan, dan sekaligus lebih berani
+menempel tangan atau senjata lawan dengan gerakan berputar, sebelum membelokkannya ke arah yang diinginkan.
+
+Untuk menguji kungfu gabungan itu, Zhao Min dan Zhou Zhiruo biasanya akan berlatih melawan Zhang Wuji yang akan 
+menggunakan kungfu yang berbeda. Zhang Wuji seringkali terkejut ketika merasa bahwa serangan-serangan yang 
+dilancarkannya seperti garam yang dituangkan ke laut, semuanya seolah kehilangan tenaga dan menghilang tanpa jejak.
+Satu-satunya cara untuk mengatasinya adalah menggunakan Jiu Yang Shen Gong, yang akan membuat serangannya melebur
+menjadi satu dengan tenaga Zhao Min, dan akan berbalik ke arah Zhou Zhiruo. Tetapi hal ini sama artinya dengan
+mengeroyok Zhou Zhiruo. Ia yakin seandainya ia melawan mereka dengan Jiu Yin Zhen Jing, maka efeknya adalah
+tenaganya akan melebur menjadi satu dengan Zhou Zhiruo, lalu berbalik menyerang Zhao Min.
+
+"Luar biasa!" pujinya setulus hati. Ia melompat mundur dan berhenti bertarung. "Saat ini aku belum menemukan cara
+untuk mengalahkan kalian," kata Zhang Wuji sambil tertawa. "Tapi bukan berarti aku tidak akan menemukannya."
+
+Zhou Zhiruo tampak agak kecewa. "Kau hanya mengalah," katanya. "Tapi sekarang aku tahu di mana titik kelemahan kami.
+Untungnya selain kau dan Zhao Meizi, tidak ada orang lain yang menguasai kungfu itu. Dan tentu saja, kita semua belajar
+dari Tai Shifu, karena itu kau bisa membaca gerakan kami. Untuk mengalahkanmu, kami tidak boleh menggunakan Taiji."
+
+Zhang Wuji menggelengkan kepalanya. "Aku serius. Tapi aku juga tidak menganjurkan kalian untuk mengadu telapak tangan
+dengan musuh setingkat Xuanming Er Lao, saat ini kalian masih belum cukup kuat untuk mengatasi mereka. Satu-satunya
+cara adalah mengandalkan kecepatan dan tipuan, karena itu aku setuju, untuk melawan mereka berdua kalian harus 
+menggunakan teknik lain, dan bukan kungfu Wudang."
+
+"Kau kira kungfu Wudang tidak bisa dipakai karena lambat, begitu kan?" kata Zhao Min sambil melemparkan sarung pedangnya
+ke arah Zhang Wuji. Lemparan itu bertenaga, ketika Zhang Wuji yang agak kaget menangkap sarung pedang itu, tiba-tiba
+ujung pedang Zhao Min datang untuk mengincar kepalanya dengan menirukan gaya Kunlun Pai. Ia menyambut serangan itu
+dengan sarung pedang, lalu mengarahkan ujung pedang itu dengan gerakan berputar ke arah lain. Tetapi Zhao Min yang
+juga menguasai Taiji membaca maksudnya, ia mengimbangi gerakan itu, tetapi memasang tangan kirinya seolah-olah akan
+mengincar punggung Zhang Wuji. "Penipu Cilik!" seru Zhang Wuji sambil tertawa. Ia mengabaikan tangan kiri Zhao Min
+dan meneruskan putaran pedang itu untuk membawanya ke sebuah pilar. Tak disangka, tangan kiri Zhao Min kemudian diteruskan
+untuk menjadi serangan yang sebenarnya. Zhang Wuji mengebaskan lengan kirinya ke belakang, sementara tangan kanannya
+yang masih memegang sarung pedang dan menempel ketat pedang Zhao Min tidak melepaskan pedang itu, yang tetap melaju
+ke arah pilar. Kaki kiri Zhao Min diam-diam menyepak kaki kanan Zhang Wuji yang saat itu digunakan sebagai tumpuan
+utama untuk menopang tubuhnya. Hanya sepersepuluh detik ketika perhatian Zhang Wuji tertuju pada kaki kanannya
+yang terancam, tiba-tiba pedang Zhao Min berhasil dibelokkan ke arah lain. Serangan kaki kiri itu hanya tipuan,
+sekarang pedang itu kembali berbalik arah dan mengancam dada Zhang Wuji. "Bagus!" seru Zhang Wuji terkejut. Sekarang
+pilihan baginya hanya merunduk atau melompat tinggi-tinggi untuk lolos dari ujung pedang, dan ia mengambil cara kedua.
+Di luar dugaannya, Zhao Min juga melompat, tetapi tangan kanannya yang memegang pedang tergantung di sebelah bawah,
+dengan ujung pedang menghadap ke atas. Pedang itu hanya tinggal menantikan tubuh Zhang Wuji turun dan dengan sukarela
+menancapkan kakinya sendiri, sementara itu tubuh bagian atasnya disibukkan oleh datangnya totokan tangan kiri Zhao Min.
+
+Karena tidak ada benda lain yang bisa dijadikan tumpuan untuk melompat lebih tinggi, dan malah kakinya terancam
+ujung pedang, Zhang Wuji kemudian membuat gerakan menyapu dengan kaki kanannya sementara masih di udara. Pedang itu
+terpaksa bergerak untuk menghindari sapuan, tetapi sebagai gantinya, kaki kanan Zhao Min menempel tendangan itu
+dengan ketat, dan mengarahkannya menuju ke pilar. Zhao Min berhasil menipu He Biweng dengan cara terakhir ini.
+Tetapi Zhang Wuji bukan He Biweng, ia tahu jelas tujuan Zhao Min. Meskipun ia tetap membiarkan kaki Zhao Min
+menempel ketat, tetapi ia bisa mengendalikan laju tendangannya sendiri. Kaki kanannya mendarat dengan ringan di
+pilar, menjadikannya sebagai tumpuan untuk melompat lolos dari kejaran Zhao Min.
+
+"Aku tidak mau bermain-main lagi," katanya sambil tertawa. "Kau melanggar prinsip utama ajaran Tai Shifu. Itu tidak
+bisa dibilang Taiji lagi!"
+
+Sebelum Zhao Min membantah, Zhou Zhiruo menyela, "Itu sudah jelas Pedang Taiji. Caranya menempel kakimu juga adalah
+prinsip Taiji, menurutku tidak ada yang salah dengan sedikit variasi."
+
+"Ini bukan soal variasi," sanggah Zhang Wuji. "Dia memakai kungfu Kunlun Pai untuk membuka serangan. Tusukan pedang
+itu jelas bukan Taiji!"
+
+"Nah, itu memang kungfu Kunlun Pai," kata Zhao Min. "Tapi setelah itu aku tetap menggunakan Taiji."
+
+"Betul," kata Zhang Wuji tidak mau kalah. "Tapi berikutnya kau kembali memakai kungfu Huashan Pai untuk membuka
+serangan."
+
+Tiba-tiba mereka mendengar Xiao Lan menangis keras-keras. Zhao Min segera masuk ke kamar untuk menggendongnya,
+sementara Zhou Zhiruo buru-buru membersihkan diri, lalu segera menyusui anaknya. "Kurasa dia kaget mendengar suaramu,"
+kata Zhao Min kepada Zhang Wuji. "Atau dia juga tidak sependapat denganmu." Anak itu memegang jari telunjuk Zhao Min
+erat-erat dan menggerak-gerakkannya ke kiri-kanan.
+
+Zhou Zhiruo tertawa. "Kulihat dia tidak sependapat denganmu," katanya kepada Zhao Min. Mereka bertiga tertawa bersama.
+Setelah Xiao Lan merasa cukup kenyang, Zhang Wuji menggendongnya untuk berjalan-jalan di sekitar taman yang dipenuhi
+tanaman obat. Ia mengangkat anaknya tinggi-tinggi di atas kepala beberapa kali. Anak itu tertawa riang, kelihatannya
+menikmati permainan itu. 
+
+Malam itu cukup cerah. Tak terasa sekarang sudah menjelang musim dingin, berarti keluarga mereka sudah lebih dari setahun 
+tinggal di istana. Sekarang ini kesehatan kaisar sudah pulih sepenuhnya, dan bahkan ia merasa jauh lebih sehat ketimbang
+sebelumnya. Sambil memandang langit cerah yang penuh bintang dan menggendong anaknya, Zhang Wuji termenung. Kehidupan
+mereka di sini sudah jelas terjamin, segalanya serba tercukupi, bahkan agak berlebihan. Tetapi mereka sudah pasti tidak
+bisa tinggal lebih lama lagi. Ia sendiri sebenarnya masih tetap belum punya rencana setelah ini mereka akan tinggal
+di mana, atau harus pergi ke mana.  
+
+Permaisuri dan Kaisar yang tidak melihat alasan untuk menahan kepergian mereka akhirnya rela membiarkan mereka pergi
+ketika Zhang Wuji berpamitan. Sebagai tanda terima kasih mereka memberikan kereta kuda yang sangat mewah bagi keluarga
+itu, lengkap dengan perbekalan yang cukup untuk setahun. Selain itu, semua pengawal yang sebelumnya ditugaskan untuk 
+membawa mereka dari tepian Sungai Hanshui diberikan kepada keluarga Zhang Wuji untuk mengawal perjalanan mereka, ke manapun
+mereka ingin pergi.
+
+Permaisuri Qi secara khusus menghadiahkan sebuah kalung emas bermata berlian bagi Xiao Lan, yang tentu saja saat itu
+sama sekali tidak bermakna apa-apa bagi anak itu. Ia hanya tertawa riang sambil berceloteh dan memainkan kalung itu
+dengan tangan kecilnya. Selain itu, Permaisuri Qi masih memberikan sepuluh orang pelayan wanita yang sementara itu
+sudah akrab dengan keluarga Zhang Wuji untuk pergi bersama mereka.
+
+"Kuharap kita masih akan bertemu lagi di masa yang akan datang," kata Permaisuri Qi sebelum mereka meninggalkan istana.
+"Sebetulnya aku masih membutuhkan bantuan Zhang Daxia, tapi aku bukan orang yang tidak mengerti etika, karena itu aku
+tidak bisa memaksamu melakukan sesuatu yang tidak ingin kau lakukan."
+
+Ucapan itu mengandung makna samar-samar yang hanya bisa ditangkap sebagian oleh Zhang Wuji. Karena ia tidak ingin
+tertahan lebih lama lagi di lingkungan istana, maka akhirnya ia memutuskan untuk tidak berkomentar lebih jauh.
+Permaisuri Qi dengan bebas bisa memanggilnya 'Zhang Daxia' karena kaisar tidak ada di situ, tetapi panggilan itu
+sendiri sekaligus juga mengungkapkan bahwa ia sudah tahu dengan pasti siapa diri Zhang Wuji.
+
+Untuk mengalihkan pembicaraan dan sekaligus mempercepat keberangkatan mereka, Zhao Min memegang tangan Zhou Zhiruo
+dan mengajaknya berlutut untuk berpamitan. "Minmin dan Zhiruo juga mohon pamit, dan berharap Huanghou selalu dalam
+keadaan sehat untuk seterusnya." Permaisuri Qi meraih tangan mereka dan menarik mereka bangkit berdiri. Ia tersenyum
+ramah dan berkata kepada Zhao Min, "Kau masih tetap kuanggap seperti anakku sendiri. Lain kali, apapun juga yang 
+kalian perlukan, jangan ragu-ragu untuk menghubungi aku."
+
+Mereka meninggalkan istana dengan atribut dan dandanan seperti keluarga pejabat Mongolia pada umumnya. Para anggota
+Ming Jiao yang selalu mengikuti keluarga Zhang Wuji segera menyambut dan membantunya mengangkut semua perbekalan
+ke dalam kereta baru. Sejak itu jumlah orang dalam rombongan mereka bertambah. Para pelayan wanita itu semuanya
+masih berusia di bawah dua puluh tahun, dan beberapa di antaranya tampak seperti keturunan Goryeo. Dengan cepat
+mereka bisa menyesuaikan diri dengan keluarga itu, karena sebelumnya memang sudah ditugaskan untuk membantu Zhou Zhiruo
+selama mereka tinggal di istana.
+
+"Gongzi, kita mau pergi ke mana?" tanya Ah Da.
+
+"Aku pun tidak punya rencana pasti," jawab Zhang Wuji terus terang. "Tapi aku sudah sangat bosan dengan suasana istana,
+jadi kurasa untuk sementara kita akan berjalan-jalan di sekitar Dadou, menikmati kehidupan orang bebas." Ia tertawa.
+"Fang Qianbei punya usul, tempat mana yang menarik untuk kita semua?"
+
+Nama Ah Da sebenarnya memang Fang Dongbai, ia tadinya adalah salah satu penatua Kai Pang. Tetapi mendengar Zhang Wuji
+berkali-kali memanggilnya 'Fang Qianbei' atau sebutan hormat lainnya, ia merasa kikuk. "Gongzi tidak perlu memanggilku
+Fang Qianbei atau sebutan lain semacam itu," katanya. "Membuatku merasa sangat tidak enak. Setelah ini kami semua
+adalah bawahan Gongzi. Kalau mau Gongzi bisa memanggil kami Ah Da, Ah Er dan Ah San, sama seperti Junzhu memanggil kami."
+
+Zhao Min yang mendengar percakapan mereka dari dalam kereta segera melongok keluar lewat jendela. Ia berkata, "Kau
+merasa bersalah karena memutuskan sebelah lengan Ah Da, padahal dia sudah tidak menyimpan dendam."
+
+Ah Da tertawa mendengar komentar itu. "Kita semua adalah orang-orang dunia persilatan. Hal seperti ini adalah biasa
+dalam setiap pertarungan. Gongzi sama sekali tidak salah."
+
+"Tidak," kata Zhang Wuji. "Saat itu aku memang masih baru belajar, dan tidak bisa mengendalikan laju pedang dengan baik.
+Mulai saat ini aku akan melatihmu bertarung dengan tangan kiri."
+
+Ia memang menepati janjinya. Mulai saat itu ia secara khusus memberikan perhatian dan menyisihkan waktu untuk berlatih
+dengan Ah Da, dan selalu memikirkan cara yang lebih baik untuk membuat Ah Da bisa bertarung hanya dengan sebelah tangan.
+Sebelumnya Ah Da adalah seorang ahli pedang, tetapi sejak ia kehilangan tangan kanannya yang dibabat putus oleh
+Zhang Wuji, sampai hari ini ia tidak dapat bertarung sebaik dulu, karena ia masih tetap canggung menggunakan pedang
+dengan tangan kiri.
+
+Permaisuri Qi membekali mereka dengan banyak sekali lantakan emas. Hal ini membuat rombongan itu sungguh-sungguh
+menjadi keluarga kaya dalam arti sebenarnya. Untuk beberapa hari mereka hanya berkeliling ibukota dan mengunjungi
+kedai-kedai makan yang menarik. Ketika mereka mampir ke sebuah kedai makan khas untuk orang-orang Mongolia, para
+pelayan segera menyambut dengan sikap hormat yang agak berlebihan bagi Zhang Wuji. Zhao Min memesan hidangan khas
+Mongolia yang terdiri dari daging domba dan sapi untuk semua pengikutnya, dan juga para pelayan. Melihat ini,
+si pelayan kedai dengan cepat menawarkan menu-menu yang sangat mahal bagi mereka sendiri.
+
+Zhao Min tersenyum mendengar semua penawaran itu. Tetapi ia hanya memesan hidangan yang sama seperti yang dimakan
+oleh para pengikut mereka. Ia kemudian menambahkan beberapa jenis buah-buahan segar dan menyebutkan nama beberapa
+masakan berupa sayuran dan ikan yang sebetulnya adalah makanan khas suku Han. "Irisan cabai dicampur bawang dan 
+ikan bakar itu sangat penting," tambahnya dengan muka serius. "Itu makanan kesukaanku!"
+
+Pelayan itu menggaruk kepalanya. "Nona..." ia menatap Zhao Min, lalu segera meralat panggilannya. "Maksudku, Furen,
+ini sepertinya persediaan kami kurang lengkap. Mungkin Furen bisa memesan lainnya..."
+
+Zhao Min mengangkat tangannya. "Aku tidak peduli di mana dan bagaimana caramu mendapatkan semua bahan itu," katanya. 
+"Tapi kami sudah terlanjur datang ke sini, karena itu kau yang harus mencarinya."
+
+Pelayan itu tampak ragu-ragu, tetapi ketika melihat dandanan mewah keluarga itu dan para pengikut mereka, dan juga
+betapa mahalnya kereta yang sedang berhenti di depan kedai, ia segera mengangguk dan membungkuk hormat, "Baik, baik,
+kami akan mengusahakan sebaik-baiknya," katanya sambil berbalik untuk menyiapkan pesanan itu.
+
+"Kurasa kali ini kau agak keterlaluan," kata Zhang Wuji setelah pelayan itu pergi. "Kalau memang ingin memesan makanan
+itu, kita bisa mampir di tempat lain."
+
+Zhao Min tersenyum nakal, ia berkata, "Aku justru ingin memesannya di sini."
+
+Zhou Zhiruo yang memahami maksudnya berkata sambil tertawa, "Mungkin ada baiknya juga kita memberi sedikit pelajaran di sini."
+Ia melambaikan tangan untuk memanggil pelayan lain, dan memesan sepoci teh hijau. Pelayan itu segera berkata dalam bahasa
+Han, "Furen, sayangnya persediaan teh jenis ini di kedai kami sudah habis..."
+
+"Tidak apa-apa," kata Zhou Zhiruo dengan ramah. "Kami tidak keberatan kau memesannya dari tempat lain."
+
+Teh tersebut pasti tersedia di kedai-kedai khas suku Han, tetapi kedai khas Mongolia ini sudah pasti merasa harga diri
+mereka akan jatuh kalau membelinya dari situ. Tapi pelayan itu tidak berani membantah lebih lanjut, dan segera pergi
+untuk menyiapkan pesanannya.
+
+"Coba kau lihat," kata Zhou Zhiruo lagi setelah ia pergi. "Baik para pelayan dan pemilik kedai itu, semuanya adalah
+orang Han. Tapi sikap mereka justru memandang rendah suku Han."
+
+Zhang Wuji melirik ke arah si pemilik kedai yang tampaknya sedang sibuk dengan alat hitungnya. Ciri-cirinya sudah jelas
+dari daerah selatan. Ia berkata sambil tersenyum, "Juga belum tentu begitu. orang-orang ini semuanya adalah pedagang.
+Ini tidak ada hubungannya dengan sentimen kepada suku apapun."
+
+Di masa itu diskriminasi kepada suku Han memang biasa terjadi di kalangan atas warga Mongolia, dan hal ini menjalar
+sampai ke kedai-kedai makan dan tempat umum lainnya. Konon, sebelum Kubilai Khan menjadi Kaisar pertama Dinasti Yuan,
+ia sendiri sangat akrab dengan suku Han, dan bahkan para pejabat terasnya adalah suku Han. Tetapi menjelang ia
+sukses menumbangkan Dinasti Song, terjadi sebuah pemberontakan yang berawal dari pejabat teras dari suku Han yang
+paling dipercayanya. Sejak saat itu di hati Kubilai selalu ada kecurigaan terhadap para pejabat dari suku Han, sampai
+akhirnya ia memberlakukan hukum yang membatasi ruang gerak etnis Han di pemerintahan. Di dalam penerapan peraturan
+yang memang diskriminatif tersebut, sudah pasti terdapat berbagai penyimpangan yang bertujuan untuk menguntungkan
+para pejabat dari etnis lain. Hal ini kemudian berkembang lebih jauh sampai ke persaingan dalam ujian negara, militer,
+ujian untuk meraih jabatan di parlemen, dan bahkan sampai ke aspek-aspek kehidupan yang lebih umum seperti kedai-kedai
+makan dan penginapan.
+
+Ketika semua pesanan itu datang, Zhao Min memperhatikan bahwa cara mereka menyiapkan ikan bakar itu sebetulnya
+adalah cara khas Mongolia. Demikian juga irisan cabai dan bawang yang dipesannya. Yang didapatnya adalah cabai besar,
+yang sudah bercampur dengan bumbu ikan bakar, dan lagi jumlah irisan cabai itu terlalu sedikit baginya. Ia membuka
+mulutnya untuk protes, tetapi saat itu juga Zhou Zhiruo memberi isyarat supaya mereka tidak lagi mempermasalahkan
+urusan kecil itu. Ia terpaksa menelan kembali kata-kata pedas yang sudah di ujung lidah. Para pelayan yang membawa
+semua hidangan itu pun pergi dengan gembira.
+
+Saat itu tiba-tiba Xiao Lan yang duduk di pangkuan Zhao Min meraih irisan cabai merah besar yang kelihatannya sangat
+menarik baginya. Zhao Min buru-buru hendak mencegah tangan mungil itu dan menjauhkan piring dari jangkauan. Tetapi
+Zhang Wuji sambil tertawa berkata, "Ssst, biarkan saja, aku ingin tahu apa yang diinginkannya."
+
+Seperti bisa diduga, anak itu kemudian memasukkan irisan cabai itu ke dalam mulutnya. Meskipun cabai merah besar itu
+sebetulnya tidak terlalu pedas, atau bagi orang dewasa yang sangat menyukai makanan pedas seperti Zhao Min, sebenarnya
+bahkan tidak terlalu berarti, tetapi bagi anak sekecil Xiao Lan tentu saja efeknya sangat lain. Ia segera mendesis
+kepedasan. Lalu meraih cangkir berisi yoghurt yang terbuat dari susu domba, yang memang disiapkan untuknya.
+
+Mereka semua tertawa melihat hal itu. Zhao Min segera membantunya minum dengan benar, lalu membersihkan sisa bumbu
+kental dari pinggiran mulutnya. Tetapi anak itu kemudian masih berusaha meraih irisan cabai merah besar berikutnya.
+"Anak ini betul-betul keras kepala, seperti ibunya," kata Zhang Wuji. Zhou Zhiruo tertawa terbahak-bahak sambil
+mengiris-iris potongan daging domba untuk mereka semua.
+
+"Caranya bukan begitu," kata Zhao Min sambil memegang tangan kecil itu. Ia lalu mengiris potongan daging ikan menjadi
+halus, dan mencampurkannya dengan sedikit bumbu, sedikit potongan cabai merah besar yang diinginkan anak itu, dan juga
+irisan bawang yang masih diperkecil lagi. Dengan sendok porselen ia lalu menyodorkannya ke dekat mulut Xiao Lan.
+"Nah, coba sekarang bagaimana," katanya sambil menatap anak itu, yang menatapnya kembali dengan matanya yang bulat
+dan besar, lalu membuka mulutnya untuk menerima suapan itu.
+
+Detik berikutnya ia memandang ke arah Zhao Min sambil tertawa riang, meskipun masih mendesis seperti sebelumnya.
+Setelah makanan di mulutnya habis tertelan, ia segera membuka mulutnya untuk meminta suapan kedua.
+
+Zhou Zhiruo agak terkejut, tapi ia melihat keakraban itu dengan senang. "Betul-betul Xiao Yaonu," katanya sambil
+tertawa. "Sekecil itu tidak takut makan cabai!" Ia mengeluarkan sebatang lantakan emas pemberian Permaisuri Qi,
+lalu menyuruh salah seorang pengawal menukarkannya dengan uang untuk membayar harga semua makanan mereka.
+
+Keluarga itu kemudian menikmati santapan khas Mongolia dengan meriah sambil diselingi berbagai cerita ringan.
+Sambil menyuapi Xiao Lan, Zhao Min juga menyantap dua ekor ikan bakar yang gemuk ditemani nasi dan sayuran
+yang dipesannya. Setelah itu ia masih menghabiskan beberapa potong daging domba ditemani airag, sementara
+Xiao Lan yang sudah puas makan diserahkannya kepada salah seorang pelayan wanita yang kemudian mengajaknya bermain
+di dekatnya.
+
+"Bagaimana kalau kita pergi ke Lembah Kupu-kupu?" tanya Zhou Zhiruo ketika mereka keluar dari kedai itu.
+
+"Lembah Kupu-kupu?" ulang Zhang Wuji agak heran. "Mengapa kau tiba-tiba ingin pergi ke Lembah Kupu-kupu?"
+
+"Mendengar ceritamu, kau menguburkan Ji Shijie di situ. Shifu selalu menyamakan aku dengan Ji Shijie, aku jadi
+ingin tahu bagaimana dia sebenarnya," kata Zhou Zhiruo sambil lalu. Ia menggendong Xiao Lan yang saat itu tampak
+mengantuk, lalu melingkarkan selimut biru untuk melindunginya dari hawa dingin. "Lagipula, tempat itu sepertinya
+cukup bagus untuk membesarkan anak ini. Kau juga bisa membangun kembali tempat kediaman Hu Xiansheng, dan memulai
+pekerjaanmu sebagai tabib dari situ."
+
+Zhang Wuji tertawa geli. "Ji Gugu sudah sangat lama meninggal, bagaimana mungkin kau bisa tahu dia sebenarnya
+bagaimana hanya dengan mengunjungi Lembah Kupu-kupu? Kalau pun kau ingin mengenalnya, mungkin lebih baik kita
+kembali ke Wudang Shan dan bertemu dengan Buhui Meimei. Dan lagi, menjadi tabib juga tidak harus pergi ke Lembah
+Kupu-kupu, meskipun aku tahu di situ ada banyak tanaman yang kukenal dengan baik, dan sungguh tempat yang baik
+untuk mengembangkan obat-obatan."
+
+"Kau hanya ingin mencari Yin Li," sela Zhao Min.
+
+"Yin Li?" langkah Zhang Wuji terhenti. "Ada apa dengan Yin Li? Kenapa...?" Tiba-tiba ia mengerti. "Aah, jadi kau pikir
+karena ia selalu memikirkan Zhang Wuji kecil yang ditemuinya di Lembah Kupu-kupu, berarti ia mencarinya ke sana?
+Begitu ya?"
+
+"Kau harus mengakui, itu memang sangat mungkin, kan?" kata Zhou Zhiruo. "Setiap kali melihat anak ini, aku selalu
+teringat akan Yin Li. Karena kita sampai sekarang belum juga memastikan ingin tinggal di mana, apa salahnya kita
+pergi ke Lembah Kupu-kupu?"
+
+"Hm, sebenarnya itu juga bukan ide yang buruk," kata Zhang Wuji. "Dan untuk pergi ke situ kita harus juga melewati
+Wudang Shan, mungkin kita bisa mampir untuk bertemu dengan Tai Shifu. Dia pasti senang melihat Xiao Lan. Hanya saja,
+perjalanan ini cukup jauh, kau yakin ingin ke sana?"
+
+Zhou Zhiruo mengangguk. "Dari situ kita juga bisa saja pergi ke Kunlun Shan kalau kau mau, siapa tahu kau lebih suka
+tinggal di Guangming Ding."
+
+Zhang Wuji tertawa terbahak-bahak. "Kurasa kau yang ingin pergi ke Guangming Ding, untuk bertemu dengan salah seorang
+penggemarmu, Han Lin'er."
+
+Zhou Zhiruo melotot, tapi ia tertawa. "Aku sudah melahirkan anakmu, kau masih juga bercanda soal ini."
+
+Saat itu mereka berjalan kaki dengan santai sambil mengobrol, sementara para pengikut mereka membawa kereta di belakang
+sambil mengawasi sekitarnya. Tiba-tiba Ah Da memberi isyarat sambil menunjuk dengan tangan kirinya, "Junzhu, coba lihat
+di depan!"
+
+Ternyata di depan mereka ada rombongan berkuda yang tampaknya sengaja menghadang. Xuanming Er Lao memimpin pasukan
+kecil itu di deretan paling depan. Tampaknya mereka memang sudah menunggu rombongan Zhang Wuji.
+
+Setelah rombongan Zhang Wuji mendekat, Lu Zhangke menyapa dari atas kuda, "Junzhu! Kami sudah lama mencarimu, tak
+disangka ternyata Junzhu ada di sini. Wangye ingin bertemu."
+
+Zhao Min merasa ucapannya bohong, karena saat itu ayahnya masih disibukkan dengan pasukan Zhu Yuanzhang, dan lagi
+ayahnya memang sengaja tidak ingin menemuinya untuk menghindari berbagai kesulitan yang timbul karena ia bergaul
+dengan Zhang Wuji. Untuk apa ayahnya menyuruh mereka mengundangnya datang.
+
+"Lu Xiansheng," katanya. "Aku juga senang bisa ketemu kalian di sini. Kurasa tadi kalian keseleo lidah, mungkin
+maksudmu Xiao Wangye yang ingin menemuiku. Katakan saja kepadanya, aku dan keluargaku sedang ingin berjalan-jalan
+ke tempat lain, lain kali aku akan menemuinya."
+
+"Junzhu, sayangnya tidak bisa begitu," jawab Lu Zhangke tanpa malu-malu. "Kami harus memberikan laporan kepada
+Xiao Wangye. Jadi Junzhu suka atau tidak suka memang harus ikut."
+
+Zhao Yishang, salah seorang dari Delapan Panah Dewa yang dibina Zhao Min, melangkah maju dan berseru, "Lu Xiansheng,
+kalian bicara dengan Junzhu dan tidak turun dari kuda? Kalian pikir kalian siapa? Coba kalian lihat sendiri, saat ini
+kalian sedang berhadapan dengan rombongan seperti apa?"
+
+Lu Zhangke dan He Biweng memang tidak memperhatikan kehadiran orang-orang lain yang mengikuti Zhang Wuji, selain
+para anggota Delapan Panah Dewa, Ah Da, Ah Er, dan Ah San. Setelah Zhao Yishang mengatakan hal itu ia baru menyadari
+bahwa kereta yang berada di belakang Zhao Min itu tampaknya agak terlalu mewah, dan orang-orang di sekitarnya semuanya
+mengenakan pakaian khas Mongolia. Semuanya membawa senjata, dan sepertinya bukan orang sembarangan. Akhirnya mereka
+menyimpulkan bahwa orang-orang ini adalah pengawal kekaisaran. Tetapi meskipun terkejut, bagi mereka saat itu tugas
+tetap adalah tugas.
+
+Sementara itu Zhou Zhiruo menyerahkan Xiao Lan kepada salah seorang pelayan perempuan dan menyuruhnya segera masuk ke dalam
+kereta. Ia sendiri kemudian maju selangkah, berdiri di samping Zhao Min dan membuka topi bulu yang dikenakannya,
+membiarkan rambut panjangnya terurai. Lu Zhangke dengan segera mengenalinya dan terkejut, "Zhou Guniang! Sungguh
+kebetulan, kami sudah lama ingin menemuimu untuk meminjam Jiu Yin Zhen Jing. Tak disangka sekarang kita bertemu
+di sini."
+
+Zhou Zhiruo tertawa. "Kalau kalian ingin melihat bagaimana sebenarnya kungfu dari Jiu Yin Zhen Jing, maka sebentar
+lagi kalian akan melihatnya secara langsung, tak perlu repot membaca kitab." Ia menoleh kepada Zhao Min. "Meizi,
+kau lebih suka yang hitam atau yang putih?"
+
+"Aku sudah bosan dengan yang hitam, kali ini aku akan mencoba yang putih," kata Zhao Min.
+
+"Baik," kata Zhou Zhiruo sambil melepaskan cambuk panjang yang melingkar di pinggangnya.
+
+Saat itu mereka sedang berada di sebuah alun-alun di tengah kota. Tempat itu sangat lebar, tetapi saat itu sangat
+ramai. Para pedagang yang ada di pinggir jalan buru-buru berkemas untuk pergi begitu melihat ketegangan itu. Para
+pejalan kaki yang tertarik pada keramaian dengan segera merapat ke pinggir untuk memberikan tempat bagi pertunjukan
+seru yang bagi mereka pasti akan berlangsung. Lu Zhangke dan He Biweng turun dari kuda, diikuti oleh semua pasukan
+yang mereka pimpin. Semuanya siap dengan senjata di tangan.
+
+Di pihak lain, para pengawal dari kekaisaran, Delapan Panah Dewa, Ah Da, Ah Er dan Ah San, beserta sepuluh orang
+anggota Ming Jiao yang mengikuti Zhang Wuji juga bersiap untuk bertarung.
+
+Yang tampak bagi para pengunjung tempat itu adalah dua pasukan pemerintah dari pihak yang bertentangan sedang
+saling bersitegang. Bagi mereka ini adalah sebuah tontonan yang menarik.
+
+<div class="w3-bar">
+    <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="bab1">Bab 1</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab3">Bab 3</a>
+</div>
