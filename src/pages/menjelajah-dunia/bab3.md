@@ -5,7 +5,7 @@ author: FX. Adi Lima
 description: Lanjutan Kisah Pedang Langit dan Golok Pembunuh Naga, Bab 3
 ---
 
-# Perjalanan Ke Barat
+# Di Lembah Kupu-Kupu
 
 <div class="w3-bar">
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
@@ -171,11 +171,11 @@ banyak dijual di pasar. Para pelayan wanita memakai setelan yang sama seperti Zh
 melihat rombongan mereka, kebanyakan orang akan menduga bahwa mereka adalah rombongan pengawal barang yang sedang
 menuju ke suatu tempat, dan tidak terlalu banyak bertanya tentang asal-usul mereka.
 
-Mengikuti keinginan Zhou Zhiruo, sekarang mereka berjalan ke arah barat dari ibukota. Perjalanan mereka sangat santai
-dan sering berhenti di kota-kota kecil yang menarik bagi keluarga itu. Ketika sedang berada di tempat yang cukup jauh 
-dari keramaian, Zhang Wuji selalu mengajak semua pengawal, Delapan Panah Dewa, dan para anggota Lima Elemen Ming Jiao
-untuk berlatih kungfu bersama. Ia secara khusus memberikan arahan bagi Ah Da, dan menemaninya berlatih pedang dengan
-menggunakan tangan kiri.
+Mengikuti keinginan Zhou Zhiruo, sekarang mereka berjalan ke arah barat dari ibukota, untuk mampir di Wudang Shan, 
+sebelum menuju ke Lembah Kupu-kupu. Perjalanan mereka sangat santai dan sering berhenti di kota-kota kecil yang 
+menarik bagi keluarga itu. Ketika sedang berada di tempat yang cukup jauh dari keramaian, Zhang Wuji selalu mengajak 
+semua pengawal, Delapan Panah Dewa, dan para anggota Lima Elemen Ming Jiao untuk berlatih kungfu bersama. Ia secara 
+khusus memberikan arahan bagi Ah Da, dan menemaninya berlatih pedang dengan menggunakan tangan kiri.
 
 Ketika memasuki propinsi Henan, Zhao Min terlihat agak tegang. Ia sering terlihat menyendiri untuk berpikir dalam,
 dan memberikan instruksi kepada para pengikut mereka untuk meningkatkan kewaspadaan. Hal ini tidak terlalu kentara bagi
@@ -458,8 +458,8 @@ Zhang Xiao Wu. Nama itu adalah pemberian Zhou Zhiruo.
 
 Menjelang ulang tahun pertama Zhang Xiao Wu, mereka dikejutkan oleh kabar yang didengar Ah Da dari pembicaraan di
 sebuah kedai arak di kota kecil di dekat situ, bahwa Chaghan Temur telah tewas dibunuh oleh seorang pimpinan pemberontak
-dari kalangan petani yang bernama Wang Sichen. Sebelumnya Wang Sichen ini telah menyerah. Tidak terlalu jelas bagi Ah Da,
-bagaimana caranya ia kemudian berhasil membunuh Chaghan.
+dari kalangan petani yang bernama Wang Sichen, di Shandong. Sebelumnya Wang Sichen ini telah menyerah. Tidak terlalu jelas 
+bagi Ah Da, bagaimana caranya ia kemudian berhasil membunuh Chaghan.
 
 Zhao Min sangat terpukul mendengar kabar ini. Ia termenung sendirian di tepi sungai selama beberapa jam, tanpa mengatakan
 sepatah katapun. Suasana duka meliputi keluarga mereka, meskipun tidak semua orang memikirkan hal yang sama. Bagi para
@@ -552,11 +552,13 @@ Mereka semua sudah terbiasa dengan tabiat Zhou Dian, dan tak seorang pun merasa 
 
 Secara bergantian mereka menceritakan perubahan situasi politik saat itu di ibukota. Chen Youliang sudah mengumumkan
 diri sebagai kaisar. Sepeninggal Xu Shouhui, mereka pada dasarnya sudah kehilangan kendali atas wilayah utara, dan 
-terpaksa mengakui keunggulan Chen Youliang. Sementara itu di selatan, Zhu Yuanzhang juga pada dasarnya tidak lagi
-merasa membutuhkan Ming Jiao, karena pasukannya sudah berkembang menjadi sangat besar dan kuat. Tetapi karena
-pengaruh Ming Jiao masih terasa, mau tidak mau ia tetap memakai nama Ming Jiao. Yang Xiao akhirnya mulai kehilangan
-minat pada politik dan kembali ke Guangming Ding. Yin Liting dan Yang Buhui sering mengunjunginya, sekarang mereka
-sudah memiliki tiga orang anak.
+terpaksa mengakui keunggulan Chen Youliang. Sementara itu di Nanjing, Zhu Yuanzhang juga pada dasarnya tidak lagi
+merasa membutuhkan Ming Jiao, karena pasukannya sudah berkembang menjadi sangat besar dan kuat. Ia akhirnya mengumumkan
+diri sebagai seorang kepala daerah, Wu Gong[^wu-gong]. Tetapi karena pengaruh Ming Jiao masih terasa, mau tidak mau ia 
+tetap mempertahankan para pengikut Ming Jiao. Yang Xiao akhirnya mulai kehilangan minat pada politik dan kembali ke 
+Guangming Ding. Yin Liting dan Yang Buhui sering mengunjunginya, sekarang mereka sudah memiliki tiga orang anak.
+
+[^wu-gong]: Wu Gong (吴公). Gong adalah sebutan bagi seorang Kepala Daerah di dalam struktur pemerintahan lama. Karena sebelumnya pasukan Zhu Yuanzhang dikenal sebagai pasukan Wu, nama ini dipakainya sebagai nama wilayahnya.
 
 Zhou Zhiruo tertawa. "Sepertinya Buhui Meizi ingin bersaing dengan keluargaku," katanya.
 
@@ -653,7 +655,7 @@ urusan politik. Aku hanya sekedar ingin tahu, dan lagi sekarang Wang Baobao[^wan
 Aku tidak bermaksud membantunya dalam urusan politik, tapi aku juga tidak mungkin mengabaikan hal-hal yang mungkin 
 mengancam keselamatan keluargaku. Kuharap kau mengerti apa maksudku."
 
-[^wang-baobao]: Wang Bao Bao (王保保) adalah nama Han dari Koke Temur, seperti nama Zhao Min.
+[^wang-baobao]: Wang Bao Bao (王保保) adalah nama Han dari Koke Temur, seperti nama Zhao Min, yang aslinya adalah Minmin Temur.
 
 "Dalam banyak hal pandangan Xiao Wangye berbeda dengan ayahnya..." jawab Fan Yao, masih agak ragu.
 
@@ -688,6 +690,10 @@ para pejabat dari suku Han."
 
 "Dia sudah tersingkir sebelum Junzhu dilahirkan," kata Zhang Zhong. "Pada saat itu banjir besar melanda Dadou akibat
 meluapnya Sungai Kuning. Akhirnya pemerintah memutuskan untuk mengeruk Sungai Kuning, itulah yang menyebabkan pemberontakan."
+
+"Dan ditambah dengan pajak yang tinggi," sela Zhou Dian. "Itu selalu menjadi masalah. Pemerintah memang memerlukan banyak
+uang untuk membiayai militer. Dinasti Yuan sangat besar, untuk mengendalikannya memerlukan biaya yang sangat besar. Bayangkan
+saja perjalanan dari Dadou ke wilayah barat seperti Persia atau Samarkand, atau ke Goryeo."
 
 "Saat itu aku masih kecil, dan masih di Bing Huo Dao," kata Zhang Wuji sambil tertawa. "Karena itu aku tidak tahu, hanya
 mendengar cerita dari Yifu dan kedua orang tuaku."
@@ -754,7 +760,7 @@ pisau, pedang atau tombak para prajurit. Karena itulah Chaghan menyuruh Fan Yao 
 berharap dengan begitu rasa ingin tahu dan bakat-bakat alamiah Zhao Min akan tersalurkan.
 
 "Kita kembali ke cerita yang tadi," kata Zhao Min kemudian. "Berarti aku bisa menyimpulkan, saat ini kakakku sedang
-berseteru dengan Balad Temur. Dan secara otomatis juga Chen Youliang dan Zhu Yuanzhang."
+berseteru dengan Bolad Temur. Dan secara otomatis juga Chen Youliang dan Zhu Yuanzhang."
 
 "Pada dasarnya mereka semua bersaing," kata Zhang Wuji. "Kurasa itu semua bukan urusan kita, aku tidak mau mencampuri
 urusan ini terlalu dalam, sepanjang mereka tidak mengganggu keluarga kita dan menyengsarakan rakyat..."
@@ -871,9 +877,9 @@ aku ingin tahu mengapa harus ada Wali Negeri, tadinya kukira kaisar adalah orang
 
 "Hal itu sudah jelas," kata Fan Yao. "Karena kaisar tidak terlalu menguasai seluk-beluk militer."
 
-"Dan setelah Genghis Khan meninggal, jabatan itu menjadi penting. Genghis Khan yang memulainya, karena saat itu
-ia memandangnya perlu," kata Zhao Min. "Setelah itu, semua orang menganggapnya sudah menjadi tradisi yang harus 
-terus ada."
+"Setelah Genghis Khan meninggal, jabatan itu menjadi penting. Genghis Khan yang memulainya, karena saat itu
+ia memandangnya perlu, anak-anaknya saling berebut tahta," kata Zhao Min. "Setelah itu, semua orang menganggapnya 
+sudah menjadi tradisi yang harus terus ada."
 
 "Genghis Khan sendiri tidak punya Wali Negeri ketika ia berkuasa, kan?" tanya Zhou Dian.
 
@@ -955,17 +961,615 @@ Sejak itu mereka mulai mengumpulkan informasi sebanyak mungkin mengenai keluarga
 mereka perhatikan. Ternyata Ma Xiuying saat itu sudah melahirkan tiga anak laki-laki yang kira-kira sebaya dengan Xiao Lan.
 Dua anak yang pertama lebih tua dari Xiao Lan, yang ketiga hampir seusia, sementara yang keempat ternyata sebaya dengan
 Zhang Xiao Han. Ma Xiuying sendiri lebih tua dibandingkan dengan Zhou Zhiruo dan Zhang Wuji, dengan demikian agak jauh
-dibandingkan Zhao Min.
+dibandingkan Zhao Min. Ma Xiuying sangat aktif mendukung perjuangan Zhu Yuanzhang di lapangan. Ia tak segan-segan ikut
+terjun di tengah-tengah pasukan untuk memberi semangat dan menyediakan berbagai keperluan mereka. Hal ini memberi jalan
+bagi rencana mereka untuk mendekati Ma Xiuying.
 
 Selain Ma Xiuying, ternyata saat itu Zhu Yuanzhang punya seorang istri yang kurang lebih sebaya dengan Zhao Min, dan sudah
-memberinya seorang putri yang seusia dengan Xiao Han. Wanita ini bermarga Sun, putri dari salah seorang pejabat Dinasti Yuan,
-dan ia sangat cantik.
+memberinya seorang putri yang seusia dengan Xiao Han. Wanita ini bermarga Sun, putri dari salah seorang pejabat Dinasti Yuan
+yang bernama Sun Heqing. Ia punya dua orang saudara laki-laki yang bernama Sun Dashi dan Sun Fan. Keluarga mereka pindah dari
+Chenzhou di Henan ke Changzhou, sebelah selatan propinsi Jiangsu. Wanita ini dikenal punya tutur kata yang sangat baik, 
+ramah, dan bisa bekerja sama dengan baik dengan Ma Xiuying. Setelah kedua orang tuanya meninggal dalam perang, ia diangkat
+anak oleh Panglima Ma Shixiong.
 
 Fan Yao tertawa terbahak-bahak ketika menceritakan mengenai istri kedua Zhu Yuanzhang ini. "Dia sendiri menikahi seorang 
-anak dari pejabat Dinasti Yuan, dan waktu itu dia terus-terusan mengkritik Junzhu!" katanya.
+anak dari pejabat Dinasti Yuan, dan waktu itu dia terus-terusan mengeritik Junzhu!" katanya.
 
 Sebenarnya Zhao Min sudah pernah mendengar berita ini dari Ah Da, tetapi ia sengaja membiarkan mereka menemukannya
-sendiri. Ketika mendengar komentar Fan Yao, ia hanya tersenyum tanpa mengatakan apa-apa.
+sendiri. Ketika mendengar komentar Fan Yao, ia hanya tersenyum tanpa mengatakan apa-apa. Cerita itu kemudian membuka
+berbagai wawasan baru bagi mereka tentang bagaimana Zhu Yuanzhang memperoleh persenjataan dan informasi yang lebih
+lengkap untuk mendukung perjuangannya selama ini. 
+
+Setelah tewasnya Chaghan Temur, Zhu Yuanzhang semakin menonjol. Tetapi campur tangan Ma Xiuying di dalam urusan militer
+sama sekali tidak disukainya. Sayangnya dalam hal ini Zhu Yuanzhang tidak bisa berbuat banyak, ayah Ma Xiuying adalah
+atasannya, meskipun pada saat itu sudah meninggal. Sejak awal Ma Xiuying memang sudah sangat berpengaruh bagi Zhu Yuanzhang.
+
+Ketika akhirnya Fan Yao, Zhou Dian dan Zhang Zhong berpamitan dengan segudang rencana baru di benak mereka, Ah Da, Ah Er dan
+Ah San kembali dengan membawa kabar tentang keluarga Zhao Min.
+
+Ternyata salah seorang selir Chaghan melahirkan seorang putri beberapa tahun sebelumnya. Saat ini anak itu sudah kira-kira
+sebaya dengan Xiao Lan. Zhou Zhiruo tertawa mendengar berita ini. "Meizi, kau punya seoang adik yang sebaya dengan Lan'er!"
+katanya. Menerima kabar tentang keluarga mereka, ibu Zhao Min merasa sangat terhibur. Ia sangat ingin bertemu dengan mereka
+semua. Seperti dugaan Zhao Min, Koke Temur memang sedang bersitegang dengan Jendral Bolad Temur yang menguasai wilayah
+utara. Ia mengambil alih kepemimpinan atas pasukan ayahnya dengan baik, tetapi ketegangan antara dirinya dengan Bolad Temur
+ini menimbulkan ketegangan antara kaisar dengan putra mahkota, yang berpihak kepada Koke Temur.
+
+"Akhirnya masalah ini sungguh-sungguh terjadi," kata Zhao Min ketika mendengar hal itu. Ia dapat membayangkan bahwa saat ini
+Permaisuri Qi sedang dalam situasi kalut.
+
+Tahun berikutnya Zhao Min dan Zhou Zhiruo secara berturut-turut mengandung, hanya berbeda tiga bulan, dan mereka membatalkan
+rencana untuk mengunjungi ibu Zhao Min di Henan. Mereka hanya bisa saling bertukar kabar melalui Ah Da, Ah Er dan Ah San.
+Menjelang akhir tahun mereka menerima kabar bahwa Chen Youliang telah tewas di tangan pasukan Zhu Yuanzhang dalam
+pertempuran selama tiga hari di Danau Poyang. Ia terkena anak panah. Putranya, Chen Shan, menyerah dan bergabung dengan Zhu
+Yuanzhang. Keluarganya yang lain dilarikan ke Wuchang.
+
+Sementara itu ketegangan yang timbul antara Bolad Temur dan Wang Baobao semakin runcing. Hal ini tentu saja sangat 
+menguntungkan bagi Chen Youliang dan Zhu Yuanzhang di selatan, dan juga kubu Zhang Shicheng yang sebelumnya telah 
+mengumumkan diri sebagai Raja Cheng, dan mendirikan negara bagian Da Zhou.
+
+Da Zhou mendapat banyak dukungan dari para pejabat Dinasti Yuan yang berasal dari suku Han, yang akhirnya membelot ke 
+Da Zhou. Saat itu, jika orang membandingkan antara Kerajaan Zhou dengan wilayah kekuasaan Chen Youliang dan Zhu Yuanzhang,
+dan bahkan dengan Dinasti Yuan sendiri, maka Kerajaan Zhou adalah yang paling makmur. 
+
+Ketika Zhang Wuji mengundurkan diri dari Ming Jiao, dan Zhu Yuanzhang baru mulai menonjol, Kerajaan Zhou ini sempat dikalahkan 
+oleh pasukan Zhu Yuanzhang, dan rela membayar upeti kepada Zhu Yuanzhang hanya supaya daerah otonominya diakui, tetapi 
+kemudian Zhang Shicheng setuju untuk menyalurkan bahan-bahan pangan ke Dinasti Yuan melalui laut. Setelah mendengar kabar 
+bahwa saingan beratnya, Zhu Yuanzhang, mendeklarasikan diri sebagai Wu Gong, ia kemudian mendeklarasikan diri sebagai Raja Wu. 
+Tak mau kalah, setahun kemudian Zhu Yuanzhang juga ikut mendeklarasikan diri sebagai Raja Wu, tetapi tentunya dengan wilayah 
+yang berbeda.
+
+Keluarga Zhang Wuji yang sedang menunggu kelahiran dua orang anak berturut-turut mengikuti perkembangan itu dari percakapan
+orang di kota terdekat, dan juga dari Ah Da, Ah Er dan Ah San yang secara rutin diutus untuk mengunjungi Ruyang Wang Fu.
+Beberapa orang dari pengikut mereka telah berkeluarga. Sebagian menikah dengan penduduk desa tetangga, sebagian dengan
+warga kota kecil yang sering mereka kunjungi, dan sebagian lainnya menikahi pelayan istana yang diberikan oleh Permaisuri Qi.
+Karena itu menjelang kelahiran anak-anak Zhao Min dan Zhou Zhiruo tahun berikutnya, sebenarnya para pengikut mereka juga
+sedang menantikan kelahiran anak pertama. Lembah Kupu-kupu yang sebelumnya sepi menjadi semakin meriah.
+
+Tahun itu Zhou Zhiruo kembali melahirkan seorang anak perempuan, yang diberi nama Xiao Yin. Tiga bulan kemudian Zhao Min 
+kembali melahirkan anak laki-laki. Zhang Wuji memberinya nama Xiao Ming untuk mengenang hari-harinya ketika masih menjadi 
+ketua Ming Jiao.
+
+Fan Yao bersama banyak pejabat tinggi Ming Jiao berkunjung ketika Xiao Ming berusia sebulan. Yang Xiao dan Yin Yewang
+tidak ikut serta dalam rombongan itu. Yin Yewang masih menyimpan sakit hati kepada Zhou Zhiruo dan Zhao Min, meskipun
+ia telah diberitahu bahwa saat ini Yin Li masih hidup, dan dalam keadaan sehat. Ia berusaha mencari Yin Li dan sama
+sekali tidak menemukan jejaknya, karena itu ia masih terus menyalahkan Zhou Zhiruo dan Zhao Min sebagai penyebab utama
+hilangnya Yin Li.
+
+Saat tiba di Lembah Kupu-kupu, mereka terkejut dan kagum menyaksikan Xiao Lan yang telah berusia tujuh tahun
+tengah berlatih jurus Taiji yang diajarkan orang tuanya. Xiao Han yang belum genap lima tahun mengawasi kakaknya
+berlatih kungfu dengan penuh minat, ditemani oleh seorang orang anggota Panji Api. Ketika melihat Fan Yao datang,
+Xiao Lan segera berlari dan memeluknya dengan riang. "Fan Yeye!" sapanya.
+
+Xiao Han dan Xiao Wu yang ketika terakhir kali Fan Yao datang masih sangat kecil tentu saja tidak mengenalinya. Tetapi
+ketiga anak itu menyambut kedatangan mereka dengan sangat meriah. Xiao Han dan Xiao Wu mengamati wajah mereka satu persatu
+dengan penuh rasa ingin tahu. Fan Yao segera melihat perbedaan besar antara kedua anak laki-laki itu. Xiao Han tampak
+sangat serius dan tidak terlalu banyak bicara, sementara Xiao Wu yang lebih kecil tampak aktif dan sibuk berceloteh
+dengan istilah-istilah yang baru dipelajarinya. Ketika mereka memberikan makanan kecil bagi ketiganya, Xiao Han segera
+berterima kasih dengan sikap yang sopan dan tertib, sementara Xiao Wu menerimanya dengan kegembiraan lugu seorang
+anak-anak, dan baru mengucapkannya setelah Xiao Lan menyuruhnya. Xiao Han mewarisi gaya dan pembawaan Zhang Wuji,
+sementara sikap dan gerak-gerik Xiao Wu tampak seperti Zhao Min.
+
+Para pemimpin Panji Lima Elemen juga mengajak puluhan anggota mereka masing-masing, dan bertemu kembali dengan rekan-rekan
+mereka yang selama ini mengikuti keluarga Zhang Wuji. Mereka tidak tampak terkejut melihat kehadiran begitu banyak orang
+di tempat itu, karena sebelumnya para pemimpin mereka telah menceritakan semua yang mereka dengar dari Fan Yao, Zhou Dian
+dan Zhang Zhong. Karena melihat sikap bersahabat para mantan pengawal istana dan juga pengikut Chaghan Temur, mereka akhirnya
+merasa tidak punya alasan untuk bersikap bermusuhan. Tentu saja alasan utama adalah karena mereka semua menghormati
+Zhang Wuji.
+
+Zhou Zhiruo menyuruh para pengikutnya menyembelih beberapa hewan ternak mereka untuk menyambut tamu. Hari itu mereka
+mengadakan perjamuan di tepi sungai. Karena saat itu adalah pertengahan musim semi, bunga-bunga yang bermekaran mengundang
+banyak kupu-kupu beraneka warna di sekitar tempat itu. Menjelang senja mereka menyalakan api unggun dan melanjutkan acara
+dengan menyanyi dan menari mengitarinya.
+
+Di tengah perjamuan itu mereka ramai membicarakan tentang persaingan ketat antara Zhang Shicheng dan Zhu Yuanzhang sebagai
+sama-sama 'Raja Wu'. Zhou Dian mengomentari urusan ini dengan agak sinis, "Si Tolol Zhang Shicheng ini sudah pasti akan
+kalah, kalau mau sekarang juga dia harus bergabung dengan sisa-sisa pasukan Chen Youliang!"
+
+Peng Yingyu tertawa terbahak-bahak. "Sungguh tragis," katanya dengan nada puas. "Anak keparat itu sekarang bergabung 
+dengan Zhu Yuanzhang!"
+
+"Anaknya yang kedua bernama Chen Li," kata Zhou Dian. "Dia baru sebelas atau dua belas tahun. Kelihatannya ini akan kembali
+menjadi cerita tentang 'Wali Negeri', karena sekarang dia diangkat menjadi kaisar untuk menggantikan Chen Youliang."
+
+Zhao Min berkata, "Hm, kelihatannya kakakku mau tidak mau harus melindungi Zhang Shicheng, karena kalau pasukan
+Zhu Yuanzhang berhasil menduduki wilayah Chen Youliang, maka sasaran berikutnya pastilah Zhang Shicheng..."
+
+Shuo Bude meneruskan kalimat itu, "Dan tentu saja kalau dia sampai berhasil menduduki wilayah itu, berikutnya
+Wang Baobao akan mulai terdesak dari dua arah."
+
+Zhang Wuji mengerutkan keningnya. "Ini berarti, kalau kau masih ingin mengunjungi ibumu, sekaranglah waktu yang baik.
+Karena setelah itu sebelah timur akan menjadi berbahaya bagi rombongan kita. Lembah ini berada di tengah-tengah
+empat wilayah yang bermusuhan, dan sekarang yang menjadi pusat perhatian adalah wilayah Chen Youliang yang berada
+di paling barat. Sedangkan Zhang Shicheng di timur laut." Ia melirik Zhao Min yang kelihatannya sedang berpikir keras.
+
+Beberapa saat kemudian barulah Zhao Min menjawab, "Kalau kita harus ke wilayah Henan, maka kita akan tetap harus melewati
+daerah berbahaya. Sedangkan sekarang kita punya Yin'er dan Ming'er yang masih sangat kecil."
+
+Wei Yixiao yang selama ini diam berkata, "Sebenarnya tetap tinggal di sini juga tetap berbahaya, karena tempat ini
+justru tepat di tengah-tengah wilayah perang." Ia tampak bersemangat, lalu melanjutkan, "Jiaozhu, sebelum ini kita
+sudah melewati sangat banyak rintangan berbahaya. Aku tahu sekarang situasinya sangat berbeda, karena Jiaozhu membawa
+anak-anak yang masih kecil, dan rombongan kita cukup besar. Tapi aku bisa memastikan lebih dahulu daerah-daerah yang akan
+kita lewati aman. Kami masih tetap bersamamu."
+
+Situasi yang tadinya meriah tiba-tiba berubah menjadi hening. Zhang Wuji berpikir keras sebelum berkata, "Aku tahu sekarang
+banyak dari kalian yang sudah berkeluarga, dan mungkin merasa berat untuk mengikuti kami. Aku tidak akan memaksa siapapun
+untuk meninggalkan tempat ini. Sebenarnya kata-kata Wei Fuwang sangat tepat, saat ini semua wilayah memang berbahaya,
+dan tempat ini sendiri justru lebih berbahaya. Jadi aku menyerahkan keputusan kepada kalian sendiri, apakah akan mengikuti
+kami, karena kelihatannya kami semua harus segera pergi dari sini untuk menuju ke Henan. Apa yang akan terjadi di sepanjang
+perjalanan sungguh sulit di perkirakan."
+
+Zhou Zhiruo menambahkan, "Bagi semua orang yang akan tinggal di sini, kami pasti tidak bisa membawa terlalu banyak barang,
+apalagi hewan-hewan ternak. Jadi semuanya akan kami tinggalkan, dan kami juga akan menyisihkan sedikit bekal untuk
+kalian. Jika kita semua masih hidup, aku yakin kita pasti akan bertemu lagi suatu saat nanti."
+
+Zhao Min mengamati kesedihan yang tampak di wajah sebagian besar pengikut mereka. Sebagian lainnya tampak bersemangat,
+karena merasa sebentar lagi mereka akan kembali bertualang, setelah beberapa tahun menetap di tempat ini, agak tersembunyi
+dari keramaian. Ia merasa bahwa urusan keluarganya telah menyeret banyak orang menjadi sedih.
+
+"Wuji Gege," bisiknya. "Kelihatannya ini bukan rencana yang baik..."
+
+"Tidak," kata Zhou Zhiruo. "Kita tetap akan pergi juga akhirnya, dan kalau kita tunda lagi, maka jumlah pengikut kita
+akan semakin banyak, akibatnya akan terasa makin berat bagi semua orang."
+
+"Min Mei, aku juga berpikir begitu," jawab Zhang Wuji. "Dan selain menengok keluargamu, aku selalu memikirkan pesan 
+Tai Shifu. Rakyat menderita, masa kita semua hidup tenang di sini?"
+
+"Hei," kata Zhou Zhiruo sambil tersenyum. "Kelihatannya sejak Xiao Wu lahir, kau banyak berubah. Ke mana perginya
+Xiao Yaonu yang dulu?"
+
+Zhao Min tertawa. "Dulu aku belum mengerti, sekarang aku punya kalian semua, dan juga mereka-mereka ini. Lalu aku
+mulai tahu bagaimana rasanya punya keluargaku sendiri."
+
+Zhang Wuji memandang ke kejauhan, teringat akan masa kecilnya di Pulau Es dan Api, lalu dalam sekejap kedua orang tuanya
+pergi dan tak akan pernah kembali. Ia berkata, "Kita menikmati saat-saat bersama, tetapi bahkan anak-anak pun suatu saat
+nanti akan belajar menjalani kehidupan mereka sendiri. Bukankah kau dulu sangat ingin bepergian, dan baru ingin menetap
+setelah kita menjadi tua?"
+
+Akhirnya malam itu sebagian besar orang ternyata ingin menetap di Lembah Kupu-kupu sambil menunggu keluarga Zhang Wuji
+kembali. Mereka berjanji akan mengelola tempat itu dengan sebaik-baiknya, dan sebisanya mereka akan saling mengirim
+kabar lewat burung merpati. Dua orang pelayan wanita memilih untuk ikut pergi bersama Zhou Zhiruo dan Zhao Min untuk
+membantu mereka mengurus anak-anak. Selain Ah Da, Ah Er, Ah San, dan Delapan Panah Dewa, hanya sekitar tiga puluh orang
+yang memilih pergi. Lima dari sepuluh anggota Panji Lima Elemen yang telah mengikuti mereka selama bertahun-tahun sekarang 
+telah menikah, dan memutuskan untuk tetap tinggal di sana.
+
+"Sepertinya jumlah kita kembali seperti semula," kata Zhao Min sambil tersenyum.
+
+Malam itu juga mereka berkemas sampai larut malam, dan para pelayan merebus daging domba dan sapi sebanyak mungkin sebagai
+bekal di perjalanan. Mereka saling mengucapkan selamat tinggal dengan berlinang air mata, karena tak tahu kapan tepatnya
+bisa bertemu lagi.
+
+Setelah berunding dengan Zhang Wuji, Wei Yixiao, Fan Yao, dan yang lain mendahului mereka berangkat untuk memastikan
+bahwa jalur yang akan mereka lalui aman.
+
+Tak seperti orang-orang dewasa, Xiao Lan, Xiao Han dan Xiao Wu tampak bersemangat. Wajah mereka berseri-seri karena
+merasa sebentar lagi mereka akan bepergian, sesuatu yang selalu mereka tunggu-tunggu setiap hari. 
+
+Mereka berangkat pagi-pagi sekali menuju ke barat laut. Zhang Wuji memutuskan untuk menempuh jalan darat menyusuri tepian
+sungai dan melalui hutan. Di sepanjang jalan ia melihat petunjuk dari Wei Yixiao dan rekan-rekannya yang mengarahkan
+mereka ke jalan yang aman, terhindar dari kemungkinan bertemu dengan pasukan dari pihak mana pun. 
+
+Xiao Lan dan kedua adiknya yang masih kecil dengan riang berusaha menangkap kupu-kupu yang beterbangan di sepanjang jalan
+sejak mereka meninggalkan rumah. Tetapi ketika mulai memasuki hutan, jumlah kupu-kupu itu mulai berkurang, sampai akhirnya
+hilang. Sebagai gantinya mereka mendengar lebih banyak suara burung-burung dan melihat banyak monyet bergelantungan 
+dari pohon ke pohon. Kadang-kadang Xiao Lan keluar dari kereta dan menunggang kuda bersama dengan Li Shien, yang biasa
+dipanggilnya Paman Li, salah satu pengawal yang paling akrab dengannya, atau bersama Zhang Wuji yang selalu mencari
+petunjuk dari Wei Yixiao dengan cermat. Zhao Min dan Zhou Zhiruo tidak mengijinkan kedua adiknya yang masih kecil untuk
+keluar dari kereta, kecuali jika mereka sedang beristirahat di salah satu tempat untuk makan dan minum sekedarnya.
+
+Kadang-kadang Zhang Wuji mengajak Xiao Lan naik ke atas sebuah pohon pinus yang tinggi dan memandang alam sekitarnya
+dari situ. Kemudian ia bersiul untuk memberi isyarat kepada rombongan Wei Yixiao untuk sekedar memberitahu di mana
+mereka sedang berada.
+
+Melihat anak-anak mereka sangat menikmati perjalanan itu dan sama sekali tidak takut, Zhao Min teringat akan pengalamannya
+yang mendebarkan bersama Zhang Wuji di sekitar Puncak Shaoshi, ketika itu pasukan ayahnya mengepung Shaolin dan ia merasa
+tidak tahu harus berbuat apa, dan akhirnya memutuskan untuk tidak membantu pihak manapun. Ia agak sedih karena ayahnya 
+belum sempat melihat anak-anaknya, dan sekarang ia bersama keluarganya sedang dalam perjalanan untuk menemui ibunya. Ia
+berharap untuk segera tiba di Ruyang Wang Fu, tetapi melihat kegembiraan anak-anak mereka, ia akhirnya memutuskan untuk
+membiarkan mereka menikmati perjalanan ini lebih lama. Setiap malam mereka selalu menginap di kota terdekat dan 
+mengajak anak-anak untuk berkeliling kota itu sekedar untuk melihat-lihat keramaian dan menikmati makan malam.
+
+Suatu hari ketika mereka terpaksa bermalam di sebuah gua di tengah hutan, ia teringat ketika Song Yuanqiao dan
+saudara-saudaranya mencurigai Zhang Wuji bersekongkol dengan dirinya untuk membunuh Mo Shenggu. Semua pengalaman itu
+sekarang terasa sangat manis untuk dikenang, padahal ketika mengalaminya mereka sakit hati. Saat ini Xiao Lan
+merasa bermalam di sebuah gua adalah pengalaman yang menyenangkan, ketika melihat kelelawar beterbangan ia sedikitpun
+tidak takut. Zhang Wuji dan Zhou Zhiruo pernah menceritakan betapa para murid Emei sangat ketakutan ketika Wei Yixiao
+sengaja mengganggu mereka di tengah malam, dan setelah itu setiap kali melihat kelelawar mereka langsung waspada.
+
+Xiao Lan masih sangat kecil ketika mereka berangkat dari Dadou untuk pergi ke Lembah Kupu-kupu, dan saat itu mereka
+mengambil jalan yang berbeda dengan yang mereka tempuh saat ini. Ruyang Wang Fu terletak di bagian barat propinsi Henan,
+karena mereka mengambil arah ke barat laut dari Lembah Kupu-kupu, maka perjalanan itu terasa jauh lebih cepat, meskipun
+mereka sangat santai. Dalam sepuluh hari mereka telah memasuki Xinyang, sebelah selatan Ruyang Wang Fu. Wilayah yang
+subur dan indah, meskipun di tengah peperangan yang bagi mereka telah berjalan sangat panjang ini. 
+
+Zhou Zhiruo teringat ketika ia bersama Zhang Wuji dan Han Lin'er memasuki wilayah ini, dan saat itu Han Lin'er
+memaki beberapa orang penduduk yang sedang memuji-muji pemerintah setempat dengan kata-kata pedas seperti 'barbar',
+atau bahkan 'anjing'. Saat itu ia sendiri karena pengaruh lingkungannya sejak kecil, terutama sekali gurunya,
+Miejue Shitai dan juga kecemburuannya kepada Zhao Min, juga sempat berpikir sama seperti Han Lin'er. Tetapi sekarang
+ia sedang dalam perjalanan untuk bertemu dengan ibu Zhao Min, yang baginya adalah keluarga, sama seperti Zhao Min
+sendiri. Beberapa tahun belakangan ini ia melihat betapa Han Lin'er sendiri akhirnya mengalami fitnahan yang kejam
+sampai akhirnya akan dieksekusi oleh orang-orang yang berpandangan sama. Lalu orang-orang ini akhirnya saling berperang
+sendiri hingga saat ini, untuk memperebutkan tahta, yang tadinya mereka katakan sedang mereka perjuangkan 'untuk rakyat'.
+Dalam hati ia tertawa pahit membayangkan semua itu. "Waktu telah menelanjangi isi hati manusia," pikirnya. 
+
+Ia melihat ke arah Zhang Wuji yang tengah menggandeng tangan Xiao Lan sedang melihat-lihat mainan anak-anak yang dijual
+di pinggir jalan. Zhao Min menggandeng tangan Xiao Han dan Xiao Wu diikuti oleh seorang pelayan wanita yang menggendong
+Xiao Ming sedang berjalan ke sebuah kedai untuk membeli makanan kecil. Ia kemudian menghampiri Zhang Wuji sambil membawa
+Xiao Yin yang sedang tertidur di pelukannya. "Lan'er," tegurnya. "Jangan membeli terlalu banyak barang."
+
+"Niang," kata Xiao Lan dengan riang. "Tadi ayah bercerita tentang boneka ini." Ia menunjuk pada sebuah boneka dari tanah 
+liat yang kelihatannya seperti sosok Jendral Yue Fei. Zhou Zhiruo tersenyum, ia baru hendak berkomentar ketika melihat
+wajah Zhang Wuji tiba-tiba tegang. "Ada apa?" tanyanya.
+
+"Aku barusan melihat dua bayangan yang mirip sosok Xuanming Er Lao," jawab Zhang Wuji. Ia seketika teringat pengalamannya
+di masa kecil ketika untuk pertama kalinya tiba di Zhong Yuan bersama kedua orang tuanya dan Yu Lianzhou, dan akhirnya
+diculik oleh He Biweng, sampai akhirnya terkena pukulan maut orang itu. 
+
+Zhou Zhiruo yang segera memahami kekuatirannya segera berkata, "Mei Jian, cepat bawa semua anak-anak dan juga Wen Jing
+ke dalam kereta. Jangan keluar dari situ sampai aku datang. Cepat!"
+
+Mei Jian dan Wen Jing adalah dua orang pelayan wanita dari istana yang mengasuh anak-anak mereka sejak kecil. Ketika
+mendengar ucapan Zhou Zhiruo, Mei Jian segera mengiyakan dan membawa Xiao Yin dan Xiao Lan untuk masuk ke kedai yang
+di datangi Zhao Min, lalu bergegas masuk ke kereta.
+
+"Ada apa?" tanya Zhao Min yang baru datang.
+
+Zhou Zhiruo meletakkan telunjuk di mulutnya, lalu berkata, "Tidak ada apa-apa, kita jalan pelan-pelan."
+
+Ah Da bersama dengan dua orang dari Delapan Panah Dewa mendekati Zhang Wuji sambil berkata dengan suara rendah, "Gongzi,
+mereka masuk ke kedai di sebelah kanan."
+
+"Aku tahu," jawab Zhang Wuji. "Saat ini kita sebaiknya langsung ke Ruyang Wang Fu. Kalian bertiga ikuti mereka, yang
+lain tetap berjalan seperti biasa, jangan menimbulkan keributan di sini."
+
+Saat itu dandanan mereka adalah sama seperti warga lokal dari suku Han, termasuk semua pengikut mereka. Zhang Wuji
+bersama Zhou Zhiruo dan Zhao Min menuntun kuda mereka di depan dengan sikap santai seolah-olah tidak terjadi apa-apa,
+diikuti oleh para pengikutnya yang mengawal kereta yang membawa anak-anak dan dua orang pelayan.
+
+Zhang Wuji melihat saat itu Zhao Min memegang pedangnya dengan sikap tegang, meskipun wajahnya tampak tenang. Ia berkata, 
+"Aku mengerti perasaanmu, tapi saat ini yang terpenting adalah kita sampai di Ruyang Wang Fu tanpa menimbulkan keributan 
+di sini."
+
+Ketegangan Zhao Min baru berkurang saat mereka mulai memasuki areal Ruyang Wang Fu, dan para penduduk di sekitar tempat 
+itu mengenalnya dengan baik dan menyapanya, "Junzhu!"
+
+Tak jauh dari pintu gerbang Ruyang Wang Fu, mereka melihat Wei Yixiao sedang memberi isyarat dengan tangannya. Zhang Wuji
+berkata, "Tunggu sebentar, biar aku yang menemuinya." Ia tahu bahwa Wei Yixiao masih tetap tidak terbiasa dengan keluarga
+Chaghan Temur yang memang menentang mereka. Karena itu ia hanya perlu bicara singkat, "Kita bicara nanti malam, tunggu
+aku di kuil terlantar tak jauh dari sini sebelum tengah malam."
+
+Saat itu Koke Temur sedang berada di Taiyuan. Ketika para pengawal memberitahukan kedatangan mereka, ibu Zhao Min 
+dengan segera menyambut mereka di pintu gerbang. Setelah mencium ibunya, Zhao Min memperkenalkan Zhang Wuji dan Zhou Zhiruo,
+lalu Xiao Lan dan kedua adiknya, dan terakhir ia bersama Zhou Zhiruo menggendong anak mereka yang masih bayi. Ibu Zhao Min
+cepat-cepat menyuruh mereka masuk dan memerintahkan para pelayan menyiapkan ruangan bagi keluarga mereka.
+
+Bagi warga yang berbahasa Han, ibu Zhao Min yang sangat jarang tampil di depan umum ini hanya dikenal sebagai Li Furen.
+Ia bukan seorang yang bermarga Li, tetapi Chaghan sendiri, seperti juga Zhao Min dan Wang Baobao, punya nama yang
+disesuaikan dengan nama suku Han, yaitu Li Cha Han[^chaghan]. Ini memang terdengar agak aneh dan lucu bagi suku Han,
+karena bagaimana mungkin seorang pria yang bermarga Li bisa memiliki keturunan bermarga Zhao dan Wang. Tetapi di masa
+itu semua suku lain yang mengadopsi nama suku Han akan memilih sendiri nama berikut marga mereka sendiri-sendiri. Tentu
+saja tidak harus mengikuti aturan penamaan suku Han yang sebenarnya.
+
+Tidak diketahui siapa nama pribadi ibu Zhao Min, dan di masa itu masih juga seperti era-era sebelumnya, adalah umum
+bagi para wanita bahwa nama pribadinya tidak tercantum dengan jelas. Setelah menikah mereka akan terbiasa dipanggil
+Li Furen, Zhao Furen, atau yang lain, sesuai dengan nama suami mereka. Zhang Wuji dan Zhou Zhiruo hanya mengikuti
+panggilan yang dipakai Zhao Min untuk memanggil ibunya, yaitu 'Mama'. 
+
+[^chaghan]: Li Cha Han (李察罕) adalah nama Chaghan Temur yang diadopsinya dari nama suku Han. Leluhur Chaghan dilahirkan
+di Beshbaliq, Xinjiang, tetapi kakek buyutnya kemudian pindah ke Zhong Yuan sejak berdirinya Dinasti Yuan. Sebagai orang
+yang dilahirkan di Zhong Yuan, ia sendiri punya nama panggilan dalam bahasa Han, yaitu Tingrui (廷瑞).
+
+Mereka bisa melihat dengan jelas bahwa Zhao Min mewarisi wajah ibunya yang sangat khas wanita dari suku Naiman. Perempuan
+dari suku Naiman dikenal cantik-cantik. Kulitnya yang putih dan halus tidak sama seperti kulit wanita suku Han. Hidungnya
+mancung, bibirnya tipis, matanya besar dengan bulu mata lentik. Tetapi tidak seperti Zhao Min yang punya pembawaan 
+riang dan terkadang seenaknya, Li Furen sangat lembut dan ramah. Ia berbahasa Han dengan sangat sempurna, sedikitpun 
+tidak ada bedanya dengan bahasa yang mereka ucapkan sehari-hari. Ia dengan segera menyukai Zhou Zhiruo dan Zhang Wuji. 
+Saat itu usianya kurang lebih setara dengan Permaisuri Qi, meskipun Permaisuri Qi tampak agak lebih muda. Sebagai selir 
+seorang pejabat Dinasti Yuan, dandanannya sehari-hari tampak sangat sederhana, ia tidak suka mengenakan pakaian dengan 
+segala perhiasan yang dianggapnya memberatkan, karena itu ia mengenakan busana sehari-hari seperti yang umumnya dikenakan 
+oleh wanita Han dari kalangan menengah di masa itu. Tetapi dengan salah satu cara, hal ini justru membuat para pelayan
+dan pengawal di rumah itu menyeganinya.
+
+Ketika melihat anak-anak mereka, ia tidak membedakan anak Zhou Zhiruo dan anak Zhao Min, dan dengan segera menyukai mereka
+semua. Xiao Lan dan Xiao Han cepat-cepat memanggilnya 'Waipo'[^waipo] seperti yang diajarkan Zhang Wuji, sementara Xiao Wu 
+yang belum lancar berbicara berusaha menirukan kedua kakaknya. Ibu Zhao Min tertawa, lalu menggandeng tangannya dengan 
+senang. Ia segera menyuruh para pelayan membawakan aneka macam makanan kecil buatannya sendiri, yang sangat disukai 
+anak-anak itu. 
+
+[^waipo]: Waipo (外婆) berarti 'Nenek', dalam hal ini adalah nenek dari pihak ibu. Secara literal istilah ini berarti 'Nenek Luar'.
+
+Xiao Lan dengan segera mengenali kacang berbumbu pedas dan gurih yang mirip buatan Zhao Min, tetapi rasanya lebih enak.
+Sementara Xiao Han dan Xiao Wu lebih tertarik pada kue-kue yang rasanya sangat manis.
+
+Zhou Zhiruo yang telah kehilangan ibunya sejak sangat kecil merasakan kehangatan mengalir di hatinya ketika ibu Zhao Min
+memanggilnya 'Zhiruo'. Sejak kecil hanya seorang Miejue Shitai yang dikenalnya dengan baik setelah ibunya meninggal,
+tetapi kemudian Miejue Shitai menyuruhnya menipu dan memusuhi Zhang Wuji, sejak itu ia merasa agak jauh dengan gurunya,
+yang akhirnya juga meninggal tak lama setelah itu. Sekarang setelah bertemu dengan ibu Zhao Min ia dengan cepat merasa
+sangat akrab. Mereka dengan mudah terlibat percakapan tentang bagaimana cara mengolah makanan dan minuman, mengelola
+rumah tangga, cara berbusana, dan tentang anak-anak.
+
+Zhao Min sejak tadi sebenarnya ingin menanyakan banyak hal kepada ibunya, tetapi melihat keakraban yang terjalin antara
+ibunya dengan Zhou Zhiruo, ia tak ingin mengganggu percakapan mereka. Ia berbisik kepada Zhang Wuji, "Kita menanyai
+para pelayan, aku ingin tahu apakah Xuanming Er Lao masih terus ada di sini."
+
+Mereka berdua pergi ke bangunan di sebelah timur, di mana para pelayan wanita tinggal. Melihat kedatangan Zhao Min dan 
+Zhang Wuji para pelayan itu hampir serempak menyapanya, "Junzhu!"
+
+"Tak disangka hari ini kita semua berkumpul lagi di sini," kata Zhao Min. "Kenapa sejak tadi aku tidak melihat
+Xuanming Er Lao, ke mana mereka?"
+
+Para pelayan itu saling berpandangan dengan bingung. Akhirnya salah seorang dari mereka menjawab untuk mewakili
+teman-temannya, "Kami juga sudah lama tidak melihat mereka. Kami pikir mereka pergi ke utara mengikuti Wangye."
+
+"Wangye?" ulang Zhao Min, agak heran. Sedetik kemudian ia baru menyadari, sekarang kakaknya sudah menggantikan
+posisi ayahnya untuk memimpin Ruyang Wang Fu. Sebelumnya semua orang memanggilnya 'Xiao Wangye', tentu saja
+sekarang panggilan ini berubah. "Oh, aku mengerti," katanya. "Jadi Wangye sekarang berada di utara, tapi kalian
+yakin Xuanming Er Lao sama sekali tidak pernah datang ke sini?"
+
+"Tidak pernah," jawab Ah Jiu, pelayan yang tadi mewakili teman-temannya. "Rasanya sudah berbulan-bulan kami tidak
+pernah melihat mereka." Mukanya tampak senang. Lu Zhangke kadang-kadang suka mengganggu mereka, dan beberapa kali
+mengucapkan kata-kata tak senonoh kepadanya.
+
+"Baiklah," kata Zhao Min. "Tapi kalau lain kali kalian kebetulan melihat mereka, atau salah satu dari mereka di sekitar
+sini, jangan katakan bahwa kami ada di sini, dan segera laporkan kepadaku."
+
+"Baik, Junzhu!" jawab para pelayan itu serempak.
+
+Saat itu mereka semua menatap Zhang Wuji sambil tersenyum, dan Zhao Min menyadari apa yang sedang mereka pikirkan.
+Ia berkata, "Ini suamiku, kalian boleh memanggilnya Zhang Gongzi."
+
+Para pelayan itu menyapa Zhang Wuji dengan sopan, tetapi juga cekikikan. Tiba-tiba Zhao Min berkata kepada salah
+satu dari mereka yang berwajah bulat dan manis, "Ah Hua, sekarang ini Li Shien ada di depan, bukankah kalian sudah
+lama tidak bertemu?"
+
+Ah Hua tersipu, mukanya merah padam, dan ia tidak menjawab. Teman-temannya berebut menggodanya sambil cekikikan.
+
+"Berarti tadi Xuanming Er Lao sedang mengintip tempat ini secara diam-diam," kata Zhao Min setelah mereka meninggalkan
+ruangan itu. "Dan artinya sekarang ini kakakku pasti sudah menyadari pengkhianatan mereka, karena itu mereka juga
+pergi tanpa pamit. Tapi apa yang sekarang ini mereka inginkan?"
+
+"Jelas bukan hal yang baik," kata Zhang Wuji. "Mungkin Wei Fuwang menemukan sesuatu, tadi aku berjanji untuk menemuinya
+nanti malam."
+
+"Aku ikut," kata Zhao Min.
+
+"Dan meninggalkan Mama sendirian bersama anak-anak?" kata Zhang Wuji dengan tatapan menegur.
+
+"Kau tenang saja," kata Zhao Min sambil tersenyum. "Mama ternyata lebih dekat dengan Zhou Jiejie daripada aku."
+
+Mereka masuk ke ruang tengah dan mendapati Zhou Zhiruo dan Li Furen baru selesai menyuapi Xiao Yin dan Xiao Ming dengan
+bubur yang dihaluskan dan dicampur kaldu daging sapi. "Ah, ke mana saja kalian?" tanya Li Furen. "Anak-anak ini sudah
+kenyang, sekarang aku ingin menyiapkan makan malam." Ia tersenyum lebar sambil menyerahkan Xiao Ming kepada Mei Jian,
+lalu berkata kepada Zhou Zhiruo, "Zhiruo, kau mau menemaniku?"
+
+"Tentu saja," jawab Zhou Zhiruo. Ia juga memanggil Wen Jing untuk menggendong Xiao Yin. "Tadi Mama bilang kita
+akan membuat kari daging kambing yang biasa dimasak orang-orang India?"
+
+"Ma," kata Zhao Min. "Kudengar aku punya seorang adik yang seusia dengan Lan'er. Di mana dia sekarang?"
+
+"Oh, itu anak Selir Huang," jawab ibunya. "Kalian bisa sekalian mengundangnya untuk makan malam bersama kita, kasihan
+sekali, mereka baru datang dari selatan dan belum terbiasa di sini. Baobao yang menyuruh orang menjemput mereka, tapi
+sekarang dia hampir tidak pernah pulang." Ia menarik nafas dalam-dalam, lalu melanjutkan dengan agak sedih, "Dia makin
+lama makin mirip dengan ayahmu. Sebetulnya aku mulai kuatir..." Ia tampak melamun.
+
+Melihat ini, Zhou Zhiruo segera berkata, "Ma, bukankah tadi Mama ingin mengajari aku bagaimana cara membuat roti khas
+Naiman untuk menemani kari itu? Biar mereka berdua yang mengundang Selir Huang, kita harus segera mulai, karena aku
+belum tahu caranya sama sekali."
+
+"Betul juga," kata Li Furen. Ia kembali tersenyum. "Ini sudah hampir saat makan malam, ayo cepat kita ke dapur."
+Ia menoleh kepada Zhao Min dan Zhang Wuji sambil berkata, "Mereka tinggal di bangunan sebelah barat, kalian bisa
+membawa kue-kue itu, anak itu suka makanan manis."
+
+Ia lalu menggandeng tangan Zhou Zhiruo untuk segera beranjak ke dapur.
+
+Ketika sedang menuju ke tempat kediaman Selir Huang, Li Sicui datang untuk melapor kepada Zhao Min, "Junzhu, barusan ada
+utusan dari Wangye, dua sudah mendengar kita ada di sini. Wangye menulis surat ini." Ia menyerahkan gulungan kertas yang 
+tersimpan di dalam kantung kulit.
+
+Ternyata Wang Baobao memang sudah tahu mengenai pengkhianatan Xuanming Er Lao, dan ia menyuruh mereka berhati-hati
+kepada kedua orang itu. Ia sendiri tidak bisa meninggalkan Taiyuan karena saat ini putra mahkota sedang berada di situ.
+Ayushiridara dan ibunya tidak dapat mengatasi Bolad Temur yang semakin berkuasa di Dadou, karena itulah sekarang isu
+mengenai perebutan kekuasaan antara putra mahkota dengan ayahnya kembali merebak di istana, dan Bolad Temur menguasai
+parlemen. Ayushiridara kemudian mencari Wang Baobao di Taiyuan untuk mengajaknya bekerja sama dan menyingkirkan
+Bolad Temur. Selama ini Wang Baobao terus menguatirkan keselamatan semua orang di Ruyang Wang Fu karena ulah Xuanming
+Er Lao, sementara itu dia sendiri harus mengurus masalah yang menguras seluruh perhatiannya. Karena itu ia merasa
+sangat lega setelah tahu mereka ada di situ.
+
+Setelah makan malam bersama ibunya dan juga Selir Huang dan anaknya, Zhao Min berkata, "Zhou Jiejie, aku dan Wuji Gege
+ingin mencari pakaian untuk anak-anak, terpaksa merepotkanmu dengan Xiao Ming. Tapi kami akan cepat pulang."
+
+"Malam begini masih ada toko pakaian yang buka?" tanya Zhou Zhiruo.
+
+"Kau lupa, aku dibesarkan di sini," jawab Zhao Min. "Aku tahu tempatnya. Jangan kuatir, kami tidak lama."
+
+Mereka mampir sebentar untuk membeli pakaian tak jauh dari kuil terlantar di mana Zhang Wuji bermaksud bertemu dengan 
+Wei Yixiao, lalu menitipkan bungkusan itu di depan toko, karena tak lama lagi toko itu akan tutup. Dari situ mereka
+bergegas menuju ke kuil. Di pintu masuk kuil terlantar itu, jajaran pemimpin Ming Jiao telah menunggu kedatangan mereka
+dengan gelisah, Yin Yewang ikut bersama mereka.
+
+Begitu melihat Zhang Wuji, mereka segera berlutut dengan tangan di dada, "Jiaozhu!"
+
+Zhang Wuji buru-buru mengangkat tangannya supaya mereka segera bangkit berdiri. "Kuharap jangan lagi bersikap
+begini. Aku sudah bukan lagi pemimpin kalian." Ia segera menghampiri Yin Yewang dan menyapanya, "Jiujiu!"
+
+Sikap dan panggilan itu diikuti oleh Zhao Min yang berdiri di sisinya. Tetapi ketika melihat Zhao Min, Yin Yewang 
+melengos ke arah lain dan tidak membalas sikapnya. Zhang Wuji hendak membuka mulut untuk mengatakan sesuatu, tetapi
+Zhao Min mendahuluinya dengan berlutut di hadapan Yin Yewang sambil berkata, "Jiujiu, mohon maaf atas segala kekasaranku
+sebelumnya. Tapi sampai saat ini kami selalu mencari Ah Li sampai ke Lembah Kupu-kupu. Tadinya kami bermaksud untuk
+meneruskan perjalanan ke Kunlun Shan, sayangnya kami belum sempat ke sana, lalu terjadi situasi darurat di sini."
+
+Tadinya Yin Yewang bermaksud menjawab dengan kata-kata pedas, tetapi ketika mendengar Zhao Min menyebut Kunlun Shan,
+rasa ingin tahunya bangkit. Ia bertanya, "Dari mana kau tahu dia ingin pergi ke Kunlun Shan."
+
+"Terakhir kalinya kami bertemu dengan Ah Li di puncak gunung Shaoshi, saat itu dia menceritakan sesuatu yang membuatku
+berpikir begitu," jawab Zhao Min. Ia tidak menyebutkan apa tepatnya kata-kata Yin Li itu.
+
+Wei Yixiao menghampiri mereka dan menepuk bahu Yin Yewang sambil berkata, "Yewang, sudahlah! Saat ini kita punya
+urusan lain yang sangat mendesak. Aku yakin anakmu dalam keadaan baik-baik saja."
+
+Dengan enggan Yin Yewang menuruti kata-kata Wei Yixiao, tetapi dari sikapnya jelas ia masih tidak menyukai kehadiran
+Zhao Min.
+
+Saat itu Yin Yewang menceritakan tentang pergerakan tiga kubu yang saat ini bertikai, yaitu Zhu Yuanzhang, Chen Li, dan
+Zhang Shicheng. Ia memang senantiasa mengawasi situasi politik di selatan, hal ini sesuai dengan posisi markas Tian Yingjiao,
+sehingga kabar sekecil apapun pasti akan didengarnya.
+
+"Chen Li, anak kedua Chen Youliang itu, bukankah dia tak lebih dari bocah sebelas atau dua belas tahun?" tanya Zhou Dian.
+
+"Betul," kata Yin Yewang. "Dan tentu saja saat ini yang berkuasa sebenarnya adalah Zhang Dingbian dan para jendral lainnya.
+Tetapi karena Chen Li adalah putra Chen Youliang, maka ia tetaplah seorang kaisar yang sah. Hal ini membuat Kekaisaran 
+Chen Han yang dimulai oleh Chen Youliang tetap ada."
+
+Peng Yingyu dan beberapa orang lain yang merasa sakit hati kepada Chen Youliang atas tumbangnya Xu Shouhui tidak
+bisa menutupi sikap sinis mereka. Peng Yingyu mendengus, lalu berkata, "Soal ini, apa hubungannya dengan kita?"
+
+Fan Yao menenangkan beberapa orang yang mulai melontarkan pendapat sinis masing-masing. Ia berkata, "Saudara-saudara,
+sebaiknya kita biarkan dulu Yin Yewang melanjutkan ceritanya."
+
+Yin Yewang berdehem, lalu melanjutkan, "Saudara-saudara, tadi Peng Dashi menanyakan apa hubungannya semua itu dengan
+kita? Kalau teringat pada si keparat Cheng Kun yang merusak kesatuan kita selama bertahun-tahun, dan juga menyebabkan
+kematian Yang Jiaozhu dan Yang Furen, dan seperti kita ketahui, Chen Youliang adalah muridnya, dan akhirnya dia
+memberontak melawan Xu Xiong, maka aku juga akan melontarkan kata-kata seperti Peng Dashi tadi. Tetapi aku lalu teringat, 
+ternyata Zhu Yuanzhang juga melakukan pengkhianatan yang sama terhadap Han Lin'er, yang adalah atasannya. Terlebih lagi,
+akhirnya ia juga mengkhianati Zhang Jiaozhu. Kalau mereka berperang, siapapun pemenangnya, aku juga bisa bilang, 'buat
+apa aku harus peduli?'. Tapi kalau kita saling berperang sendiri, lalu ke mana perginya tujuan kita semula, yang 
+kelihatannya mulia itu? Ini berarti Dinasti Yuan akan bertepuk tangan, sedangkan kita sendiri hancur. Kalaupun kita 
+sakit hati kepada Chen Youliang, bukankah dia juga sudah tewas di tangan pasukan Zhu Yuanzhang? Untuk apa kita masih
+terus menyimpan sakit hati itu?"
+
+Saat itu Zhang Wuji merasa, betapa melegakan jika pamannya juga bisa melupakan sakit hatinya kepada Zhao Min dan 
+Zhou Zhiruo.
+
+"Lalu menurutmu bagaimana?" tanya Peng Yingyu. "Katakanlah, kita sudah melupakan urusan lama dengan Chen Youliang.
+Selanjutnya apa?"
+
+"Nah," lanjut Yin Yewang. "Kudengar sampai sekarang Zhu Yuanzhang masih terus berperang dan mengejar Chen Li sampai
+ke Wuchang, padahal Chen Shan, yang sebelumnya adalah putra mahkota, sudah menyerah ke pihaknya. Bukankah ini sangat
+keterlaluan, apakah kita akan membiarkan begitu saja masalah ini?"
+
+"Kata-katamu seperti kentut," kata Zhou Dian. Mendengar komentar kasar itu Yin Yewang tidak tersinggung. Zhou Dian
+memang sudah biasa bersikap seperti ini kepada siapapun. Dan sepotong kata yang paling sering diucapkannya memang
+adalah 'kentut'. Ia melanjutkan, "Kau punya usul apa kalau tidak membiarkannya? Kau kira saat ini Tian Yingjiao
+bisa melawan pasukan Zhu Yuanzhang?"
+
+Peng Yingyu berkata, "Maksudmu kau masih ingin menolong keturunan bangsat bermarga Chen itu?"
+
+"Kukira maksud Jiujiu adalah, kalaupun kita tidak bisa berbuat terlalu banyak, setidaknya kita bisa mendamaikan urusan ini.
+Setidaknya kita bisa berusaha menengahi kedua belah pihak, dan mencegah pertumpahan darah lebih lanjut di antara orang
+sendiri," kata Zhang Wuji. "Bukankah begitu, Jiujiu?"
+
+Saat itu Yin Yewang tampak makin bersemangat. Ia berkata, "Kira-kira seperti itu. Tapi kami percaya," Ia memandang ke
+arah Zhou Dian, Shuo Bude, Wei Yixiao, dan yang lain, "bahwa jika sebelumnya Jiaozhu bisa menyatukan Ming Jiao yang
+tercerai-berai, kali ini Jiaozhu juga pasti sanggup menyatukan mereka semua..." Ia sengaja menghentikan kalimatnya
+untuk menunggu reaksi Zhang Wuji.
+
+"Kukira kalian semua salah alamat, sekarang ini yang menjadi Jiaozhu adalah Yang Jiaozhu, bukan aku," kata Zhang Wuji.
+
+"Sayangnya sekarang Yang Xiao sudah kehilangan minat untuk ikut campur dalam urusan ini," kata Fan Yao. "Yang Jiaozhu
+kita telah lama mengundurkan diri ke Guangming Ding. Sekarang dia hanya sibuk menulis bukunya."
+
+"Aku bisa mengajaknya bicara, aku yakin dia hanya belum menemukan cara terbaik untuk menyatukan semua pihak," jawab
+Zhang Wuji. "Tapi kalian juga harus bicara dengannya. Ditambah lagi, saat ini situasinya sudah sangat berbeda jika
+dibandingkan dengan ketika kita beru mulai bergerak. Baik pasukan Zhu Yuanzhang dan Chen Youliang sudah begitu besar,
+bahkan mereka telah berkembang menjadi kaisar dan raja. Mana mungkin mereka mau mendengarkan pendapatku?"
+
+"Kali ini Jiaozhu keliru," sela Zhou Dian. "Aku sangat yakin Zhu Yuanzhang akan mendengarkan pendapatmu. Dia masih
+punya hutang yang harus dibayar!"
+
+"Nah, kalau seperti itu sikap kita, maka kita hanya akan menimbulkan lebih banyak persoalan, dan bukan menyelesaikannya,"
+kata Zhang Wuji.
+
+"Juga belum tentu begitu," sela Zhao Min. Ia berpaling kepada Zhou Dian. "Zhou Dage tentu masih ingat diskusi kita 
+di Lembah Kupu-kupu sebelum ini. Kita punya seorang 'penghubung' yang sampai sekarang masih belum kita sentuh sama
+sekali." Ia berpaling kepada Yin Yewang dan bertanya, "Jiujiu, setelah Zhu Yuanzhang mengumumkan diri sebagai Raja Wu, 
+apakah Ma Xiuying masih sering ikut bersamanya sampai ke barak-barak militer?"
+
+Seketika itu rasa penasaran Yin Yewang bangkit, ia melupakan rasa tidak senangnya kepada Zhao Min. "Soal ini aku
+bisa memastikan, dia masih tetap sama, meskipun Zhu Yuanzhang tidak menyukai hal ini," jawabnya. "Kenapa kau menanyakan
+soal ini?"
+
+"Karena aku yakin, Zhu Yuanzhang barangkali tidak mau mendengarkan kita, bahkan juga tidak akan bersedia menemui
+Wuji Gege, tetapi dia _pasti_ akan mendengarkan pendapat istrinya yang satu ini," jawab Zhao Min dengan penuh
+keyakinan.
+
+Yin Yewang berdehem. "Harus kuakui, kali ini pendapatmu cukup bagus. Tapi seperti yang kukatakan tadi, dia tidak
+menyukai cara istrinya terus menerus melibatkan diri dengan urusan politik dan militer. Jadi kemungkinan besar dia
+juga tidak akan mendengarkan pendapat Ma Xiuying."
+
+Zhao Min tersenyum samar, lalu berkata, "Kalau begitu kita bisa _membantunya_..."
+
+Zhou Dian melompat dari tempat duduknya sambil bertepuk tangan dan berseru, "Setuju! Aku orang pertama yang setuju!
+Itu baru cara orang Wulin, itulah gunanya kita!"
+
+Kali ini rasa tidak senang Yin Yewang kepada Zhao Min sungguh-sungguh lenyap. Tanpa sadar ia berkata, "Baik, sekarang
+kau bisa ceritakan lebih lengkap. Kau ingin Jiujiu melakukan apa?"
+
+Begitu mendengar Yin Yewang menyebut dirinya sendiri 'Jiujiu', Zhao Min merasa sangat senang. "Permusuhan antara kubu
+Wu dan Han ini tentu saja bukan timbul hanya dari salah satu pihak. Jadi kita juga harus mendamaikannya dari dua arah.
+Chen Li yang masih kecil itu pastilah tak tahu apa-apa. Sedangkan Chen Shan, dia tentu menyerah untuk menyelamatkan
+nyawanya sendiri sambil berharap Zhu Yuanzhang tidak akan mengusik adik-adiknya. Sayangnya kemudian perang tetap masih
+berlanjut. Seperti Jiujiu katakan tadi, itu karena Zhang Dingbian dan para jendral lainnya mengangkat Chen Li
+menjadi kaisar. Berarti kita juga harus bicara baik-baik dengan para jendral ini."
+
+"Kalau soal ini aku tidak punya penghubung," jawab Yin Yewang. "Kau tentu tahu, pihak kita bermusuhan dengan kubu
+Chen Youliang. Jadi kita tidak punya penhubung."
+
+"Ada," jawab Zhao Min. "Kita masih punya Kai Pang. Kalaupun mantan anggota Kai Pang yang mengikuti Chen Youliang ini
+sekarang tidak lagi terkait dengan Kai Pang, tetapi aku yakin mereka masih tetap segan jika mendengar atau bertemu
+langsung dengan orang-orang Kai Pang. Sekali lagi, dalam hal ini kita pun perlu _membantu_ Kai Pang."
+
+"Soal ini biar aku yang mengurusnya," kata Fan Yao. "Setelah bentrok dengan kita saat itu, mereka akhirnya bersikap
+baik kepadaku. Aku yakin aku punya cara untuk menghubungkan mereka dengan mantan anggota lama."
+
+"Baik," kata Zhao Min melanjutkan. "Sekarang dari sisi Zhu Yuanzhang. Ini agak rumit, karena tadi siang kami sempat 
+melihat Xuanming Er Lao di sekitar Ruyang Wang Fu..."
+
+Begitu mendengar 'Ruyang Wang Fu', rasa tidak senang Yin Yewang muncul lagi. Ia menyela dengan agak sengit, "Apa kaitannya
+hal ini dengan Ruyang Wang Fu?"
+
+"Nah, Jiujiu harap sabar dulu," kata Zhang Wuji buru-buru. "Sebentar lagi kita sampai di situ. Kurasa kita semua tahu 
+bahwa sekarang ini Xuanming Er Lao sudah berada di pihak Zhu Yuanzhang, mereka bukan lagi bekerja untuk Ruyang Wang Fu."
+
+Sebetulnya Yin Yewang belum sempat mendengar cerita itu, karenanya Fan Yao menjelaskannya secara singkat tentang 
+bagaimana Xuanming Er Lao bekerja sama dengan Zhu Yuanzhang. "Wah, aku sedikitpun tidak menduga ada masalah seperti
+ini," kata Yin Yewang.
+
+"Nah, kembali ke urusan kita," lanjut Zhao Min. "Aku yakin dengan mengawasi gerak-gerik Xuanming Er Lao, kita akan
+tahu apa rencana Zhu Yuanzhang saat ini. Dan kita akan memotongnya di saat yang tepat melalui Ma Xiuying."
+
+"Kelihatannya urusan membuntuti Xuanming Er Lao ini akan jadi tugasku," kata Wei Yixiao sambil tertawa. Ia teringat
+saat menyelundupkan Selir Han ke kamar Lu Zhangke. "Kali ini aku ingin memberi mereka pelajaran yang sungguh tak terlupakan."
+
+Fan Yao tertawa. "Aku jadi ingin ikut campur urusan yang ini," katanya. "Mungkin ada di antara kalian yang mau
+menggantikan tugasku untuk membantu Kai Pang?"
+
+"Jangan," kata Zhang Wuji. "Kukira sudah tepat Fan Yaoshi mengurus Kai Pang. Jika Lu Zhangke melihatmu, dia pasti akan
+mulai curiga, dan akibatnya rencana kita akan gagal."
+
+"Kukira urusan Xuanming Er Lao bisa dilakukan secara bergantian oleh banyak orang," kata Zhao Min. "Dengan begitu
+lebih kecil kemungkinan mereka akan curiga, kalaupun secara tak sengaja melihat salah satu dari kita di suatu tempat.
+Wei Fuwang bisa menyampaikan pesan-pesan kita kepada Ma Xiuying di saat yang tepat tanpa ketahuan oleh Zhu Yuanzhang
+atau siapapun."
+
+"Haha!" kata Zhou Dian sambil bertepuk tangan. "Aku makin suka rencana ini. Kungfu mereka memang bagus, tapi qinggong
+mereka jelek, dan mereka juga agak tolol, kurasa kecil kemungkinannya kita ketahuan."
+
+"Lalu apa tugasku?" tanya Zhang Wuji. "Aku juga ingin melakukan sesuatu."
+
+"Untuk sementara Zhang Xiansheng bisa menunggu dulu," kata Zhao Min sambil tersenyum. "Atau kalau mau bisa membantu
+Fan Yaoshi mengunjungi Kai Pang. Kalau memang Zhu Yuanzhang tidak mau mendengar nasihat Ma Xiuying, barulah
+Tabib Zhang bisa mengunjungi Ma Furen untuk memberi nasihat tentang kesehatan, lalu kita semua muncul di saat yang
+tepat setelah itu."
+
+Yin Yewang tertawa terbahak-bahak. "Aku sudah lama ingin melihat orang ini terkencing-kencing," katanya.
+
+"Tadinya aku ingin melibatkan Han Lin'er," kata Zhao Min lagi. "Sayangnya jarak dari Guangming Ding ke sini
+terlalu jauh bagi hantu Han Lin'er. Jangan-jangan di tengah jalan ada mata-mata Zhu Yuanzhang yang memergokinya."
+
+Semua orang tertawa membayangkan 'hantu' Han Lin'er muncul di hadapan Zhu Yuanzhang.
+
+Malam itu mereka berpisah dengan rencana yang tersusun rapi dan tugas masing-masing orang dimengerti dengan baik. 
+Setelah mengambil pakaian anak-anak yang tadi mereka beli di depan toko, Zhang Wuji dan Zhao Min kembali ke Ruyang
+Wang Fu.
 
 <div class="w3-bar">
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
