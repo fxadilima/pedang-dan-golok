@@ -1,0 +1,47 @@
+---
+interface Props {
+  links: { text: string; href: string }[];
+}
+
+const { links = [] } = Astro.props;
+---
+
+<aside id="sidebar">
+  <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
+    <a href="/">
+      <img src="/images/logo.png"
+        alt="avatar" 
+        style="width:100%">
+    </a>
+
+    {
+      links.length === 0 ? (<p>Tidak ada link</p>) : (
+        links.map(link => (
+          <a href={link.href} class="w3-bar-item w3-btn w3-hover-black w3-padding-large">
+            <i class="fa fa-book w3-xxlarge"></i>
+            <p>{link.text}</p>
+          </a>
+        ))
+      )
+    }
+  </nav>
+
+  <!-- Navbar on small screens (Hidden on medium and large screens) -->
+  <div class="w3-top w3-hide-large w3-hide-medium w3-black" id="myNavbar">
+    <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
+      <a href="/" class="w3-bar-item w3-button"><i class="fa fa-home"></i></a>
+
+      {
+        links.length === 0 ? (<p>Tidak ada link</p>) : (
+          links.map(link => (
+            <a href={link.href} class="w3-bar-item w3-btn">
+              <i class="fa fa-book"></i> {link.text}
+            </a>
+          ))
+        )
+      }
+
+    </div>
+  </div>
+</aside>
+

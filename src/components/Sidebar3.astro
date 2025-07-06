@@ -1,0 +1,41 @@
+---
+interface Props {
+  links: { text: string; href: string }[];
+}
+
+const { links = [] } = Astro.props;
+---
+
+<aside class="sidebar">
+  <h3>Navigation</h3>
+  <nav>
+    <ul>
+      {links.length === 0 ? (
+        <li>No links provided.</li>
+      ) : (
+        links.map(link => (
+          <li><a href={link.href}>{link.text}</a></li>
+        ))
+      )}
+    </ul>
+  </nav>
+  <p>Some extra sidebar content.</p>
+</aside>
+
+<style>
+  .sidebar {
+    background-color: #f0f0f0;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-left: 2rem; /* Example styling */
+    width: 250px; /* Example width */
+    flex-shrink: 0; /* Prevent it from shrinking in a flex container */
+  }
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  .sidebar li {
+    margin-bottom: 0.5rem;
+  }
+</style>
