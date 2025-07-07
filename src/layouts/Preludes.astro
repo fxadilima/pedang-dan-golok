@@ -2,7 +2,7 @@
 import FormattedDate from '../components/FormattedDate.astro';
 import Sidebar from '../components/Sidebar.astro';
 
-const { frontmatter } = Astro.props;
+const { title, description, partNumber } = Astro.props;
 
 ---
 
@@ -11,8 +11,8 @@ const { frontmatter } = Astro.props;
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{frontmatter.title}</title>
-  <meta name="description" content={frontmatter.description}>
+  <title>{title}</title>
+  <meta name="description" content={description}>
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
   <link rel="stylesheet" href="/styles/main.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
@@ -26,17 +26,20 @@ const { frontmatter } = Astro.props;
       { text: 'Book 3', href: '/book3' }
     ]} />
 	
-	<main class="w3-container w3-padding-large" id="main" aria-label="Content">
+	<main class="w3-container w3-padding-64" id="main" aria-label="Content">
 		<header>
-			<h1>{frontmatter.title}</h1>
-			<p>Published on: <em><FormattedDate date={new Date(frontmatter.pubDate)}/></em></p>
+			<h1>{title}</h1>
+      <h5>Part: {partNumber}</h5>
 		</header>
-	
-		<hr>
+
+    <hr>
+
+    <section class="w3-panel w3-content">
+      <slot />
+    </section>
 		
-		<slot />
-		<footer>
-			<p>&copy; 2025 My Astro Blog</p>
+    <footer>
+			<p>&copy; 2025 Pedang & Golok</p>
 		</footer>
     </main>
 </body>

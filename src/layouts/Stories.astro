@@ -1,5 +1,4 @@
 ---
-import FormattedDate from '../components/FormattedDate.astro';
 import Sidebar from '../components/Sidebar.astro';
 
 const { frontmatter } = Astro.props;
@@ -29,7 +28,7 @@ const { frontmatter } = Astro.props;
 	<main class="w3-container w3-padding-large" id="main" aria-label="Content">
 		<header>
 			<h1>{frontmatter.title}</h1>
-			<p>Published on: <em><FormattedDate date={new Date(frontmatter.pubDate)}/></em></p>
+      <p>Published on: <em>{frontmatter.pubDate}</em></p>
 		</header>
 	
 		<hr>
