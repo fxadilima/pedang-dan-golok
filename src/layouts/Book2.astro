@@ -2,7 +2,21 @@
 import FormattedDate from '../components/FormattedDate.astro';
 import Sidebar from '../components/Sidebar.astro';
 
+export interface Props {
+  title: string;
+  description: string;
+  author: string;
+  pubDate: string;
+  cover_image: {
+    path: string;
+    alt: string;
+    title: string;
+  }
+}
+
+console.log(Astro.props);
 const { frontmatter } = Astro.props;
+const { title, description, author, pubDate, cover_image } = frontmatter;
 
 ---
 
@@ -11,8 +25,8 @@ const { frontmatter } = Astro.props;
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{frontmatter.title}</title>
-  <meta name="description" content={frontmatter.description}>
+  <title>{title}</title>
+  <meta name="description" content={description}>
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
   <link rel="stylesheet" href="/styles/main.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
@@ -26,14 +40,25 @@ const { frontmatter } = Astro.props;
     ]} />
 	
 	<main class="w3-container w3-padding-large" id="main" aria-label="Content">
-		<header>
-			<h1>{frontmatter.title}</h1>
-			<p>Published on: <em><FormattedDate date={new Date(frontmatter.pubDate)}/></em></p>
+  	<h1 class="w3-center">{title}</h1>
+		<header class="w3-flex" style="flex-direction:column;">
+      <div  class="w3-flex-item" style="width:25%%;align-self:center;">
+        <img class="w3-round" style="width:100%"
+          src={cover_image.path}
+          alt={cover_image.alt}
+          title={cover_image.title}
+        />
+        <div class="w3-container w3-center">
+          <p>Written by: FX. Adi Lima</p>
+     			<p>Published on: <em><FormattedDate date={new Date(pubDate)}/></em></p>
+        </div>
+      </div>
 		</header>
 	
 		<hr>
 		
 		<slot />
+    
 		<footer>
 			<p>&copy; 2025 My Astro Blog</p>
 		</footer>
