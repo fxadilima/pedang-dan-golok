@@ -5,7 +5,7 @@ author: FX. J. Adi Lima
 description: Kisah Pedang dan Golok, Buku II.
 pubDate: "2026-05-07"
 cover_image:
-  path: "/images/plitwh/chuzhou-juli-1355.png"
+  path: "/images/plitwh/Qi-Shengniang-Xiangyang-1.png"
   alt: "Cover Book 2"
   title: "Tanah Perjanjian Di Ufuk Barat"
 ---

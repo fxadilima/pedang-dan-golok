@@ -5,7 +5,7 @@ author: FX. J. Adi Lima
 description: Kisah Pedang dan Golok, Buku II.
 pubDate: "2026-05-07"
 cover_image:
-  path: "/images/plitwh/chuzhou-juli-1355.png"
+  path: "/images/plitwh/makam-di-wudang.png"
   alt: "Cover Book 2"
   title: "Tanah Perjanjian Di Ufuk Barat"
 ---
@@ -120,6 +120,18 @@ Zhao Min segera memahami makna kalimat terakhir itu. Ketika ia dan Zhou Zhiruo m
 
 Kepada Zhang Wuji Zhang Sanfeng berkata, "Wuji, mulai sekarang kau harus membimbing latihan mereka berdua dengan benar. Tai Shifu sudah terlalu tua, dan saat ini waktu begitu mendesak, kalian harus segera berangkat untuk melaksanakan tugas penting ini. Perang sudah mulai berkecamuk di mana-mana, kita tidak boleh membuang-buang waktu." Dengan kalimat ini sebenarnya Zhang Sanfeng secara tidak langsung hendak mengatakan bahwa sekarang baik Zhou Zhiruo maupun Zhao Min harus belajar kungfu dari Zhang Wuji, dan itu termasuk semua kungfu Wudang yang pernah dipelajari cucu muridnya itu. Meskipun tidak disebutkan secara resmi, tetapi ini berarti Zhang Sanfeng sudah menganggap kedua gadis itu sebagai murid Wudang dan keluarga sendiri.
 
+Mereka menginap beberapa hari di Perguruan Wudang, berlatih kungfu di bawah pengawasan Zhang Sanfeng. Kedua gadis itu untuk pertama kalinya belajar tentang Taiji, yang sebelumnya mereka remehkan karena terlihat lambat.
+
+<div  class="w3-flex-item" style="width:25%%;align-self:center;">
+<img src="/images/plitwh/senja-di-wudang.png" 
+    alt="Wudang 1355"
+    class="w3-round"
+    title="Wudang, 1355"
+    style="width:100%"
+/>
+</div>
+
+
 Dengan berlinang air mata mereka bertiga berpamitan, lalu bergegas meninggalkan Wudang untuk menuju ke selatan.
 
 Zhang Sanfeng mengawasi punggung ketiga anak muda itu sampai menghilang di balik dinding. Ia bisa melihat bahwa Zhang Wuji memang punya kungfu yang sangat tinggi, bahkan lebih tinggi dibanding apa yang bisa dicapainya di usia yang sama. Tetapi cucu muridnya itu tidak mewarisi ketegasan kedua orang tuanya, sedangkan kedua gadis itu _justru_ memilikinya.
@@ -132,11 +144,11 @@ Perang memang tidak bisa dihindari lagi. Dalam hal ini negara memang membutuhkan
 
 <div class="w3-container w3-row-padding">
     <a class="w3-btn w3-hover-black w3-border w3-round"
-        href="/plitwh/jilid1/part3/">
+        href="/book2/jilid1/part3/">
         Previous
     </a>
     <a class="w3-btn w3-hover-black w3-border w3-round"
-        href="/plitwh/jilid1/part5">
+        href="/book2/jilid1/part5">
         Next
     </a>
 </div>

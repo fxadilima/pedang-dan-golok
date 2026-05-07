@@ -1,17 +1,18 @@
 ---
 layout: ../../../layouts/Book2.astro
-title: The Promised Land in the Western Horizon
+title: Jilid 1
 author: FX. J. Adi Lima
 description: Kisah Pedang dan Golok, Buku II.
 pubDate: "2026-05-07"
 cover_image:
-  path: "/images/plitwh/chuzhou-juli-1355.png"
+  path: "/images/plitwh/menuju-wudang.png"
   alt: "Cover Book 2"
   title: "Tanah Perjanjian Di Ufuk Barat"
 ---
 
-# 3. Chuzhou, 1355
-## *Angsa Bakar Di Tepi Sungai*
+# Bagian 3
+## Chuzhou, 1355
+### *Angsa Bakar Di Tepi Sungai*
 
 Pada hari kedua, Zhang Wuji berjalan-jalan di sekitar tempat kediaman keluarga Guo Zixing itu dengan ditemani oleh Zhou Zhiruo dan Zhao Min. Wilayah itu berbatasan dengan Jiangsu di sebelah timur, dan Huainan di sebelah barat. Chuzhou sangat dipengaruhi perubahan musim. Di musim dingin, cuaca sangat dingin. Di musim panas, cuaca lebih panas ketimbang daerah lain.
 
@@ -268,6 +269,16 @@ Zhang Wuji yang masih penasaran mengembalikan topik yang melebar, "Tadi kau bila
 
 ---
 
+<div  class="w3-flex-item" style="width:25%%;align-self:center;">
+<img src="/images/plitwh/qi-shengniang-1.png" 
+    alt="Empress Qi 1355"
+    class="w3-round"
+    title="Qi Shengniang, 1355"
+    style="width:100%"
+/>
+</div>
+
+
 Mereka melanjutkan perjalanan dan mencari penginapan di kota terdekat. Zhou Zhiruo sangat ingin mendengar cerita tentang Permaisuri Qi, tetapi Zhang Wuji sedang penasaran mengenai apa yang dilakukan oleh El Temur. Karena mereka sedang berpacu di atas kuda, rasa penasaran itu terpaksa ditunda sampai mereka tiba di sebuah penginapan yang cukup sederhana di sebuah kota kecil. Penginapan itu tidak menyediakan makanan, untungnya Zhao Min membeli banyak makanan sebelumnya, jadi mereka bisa makan malam di teras penginapan sambil melanjutkan cerita, setelah menyegarkan diri dan memesan dua kamar. Zhou Zhiruo dan Zhao Min menginap di satu kamar, dan Zhang Wuji memesan kamar yang lebih kecil untuk dirinya sendiri.
 
 Ia lalu memaksa Zhao Min bercerita lebih banyak. "Untung ada Permaisuri Budashiri, setidaknya Toghon masih dibiarkan hidup. Kurasa kematian Rinchinbal itu juga misterius, mungkin El Temur menyuruh orang menaruh racun di makanannya."
@@ -300,13 +311,13 @@ Zhang Wuji dan Zhou Zhiruo bertepuk tangan setelah ia menyelesaikan lagu itu. Me
 
 "Aku tidak bisa menyanyi," kata Zhou Zhiruo. "Dan tulisan tanganku juga jelek. Masih beruntung Shifu mengajariku membaca dan menulis, jadi aku tidak buta huruf. Kau jauh lebih mengerti tradisi dan kebudayaan suku Han ketimbang kami."
 
-"Kau masih ingat awal ceritaku ini? Keluarga ayahku berasal dari suku Naiman — seperti juga Babusha — yang akhirnya ditaklukkan oleh Genghis Khan. Tadinya leluhur ayahku tinggal di Xinjiang, tetapi setelah Kubilai Khan mendirikan Dinasti Yuan, keluarga mereka pindah ke Shengqiu. Mereka akhirnya juga mengikuti Kubilai Khan, dan memeluk agama Buddha Tibet. Keluarga ayahku termasuk mereka-mereka yang mendukung penerapan ajaran Kongzi dan kebudayaan Han di dalam Dinasti Yuan," kata Zhao Min. Ia tersenyum. "Tapi kurasa kalian juga tahu, karena baik Wang Baobao maupun ayahku berbahasa Han dengan baik."
+"Kau masih ingat awal ceritaku ini? Keluarga ayahku berasal dari suku Naiman — seperti juga Babusha — yang akhirnya ditaklukkan oleh Genghis Khan. Tadinya leluhur ayahku tinggal di Wilayah Barat, tetapi setelah Kubilai Khan mendirikan Dinasti Yuan, keluarga mereka pindah ke Shengqiu. Mereka akhirnya juga mengikuti Kubilai Khan, memeluk agama Buddha Tibet. Keluarga ayahku termasuk mereka-mereka yang mendukung penerapan ajaran Kongzi dan kebudayaan Han di dalam Dinasti Yuan," kata Zhao Min, tersenyum. "Tapi kurasa kalian juga tahu, karena baik Wang Baobao maupun ayahku berbahasa Han dengan baik."
 
 "Kudengar Wang Baobao sebenarnya bukan kakak kandungmu," kata Zhang Wuji.
 
 [^biaoge]: Biao Ge (表哥) adalah kakak sepupu dari pihak ibu.
 
-"Betul, seharusnya aku memanggilnya Biaoge[^biaoge]. Ini kira-kira sama seperti kau dan Yin Li," kata Zhao Min. "Tapi ayahku mengangkatnya sebagai anak setelah ayahnya sendiri meninggal."
+"Betul, seharusnya aku memanggilnya Biaoge[^biaoge]. Ini kira-kira sama seperti kau dan Yin Li," kata Zhao Min. "Tapi ayahku mengangkatnya menjadi anak setelah ayahnya sendiri meninggal."
 
 "Tidak mengherankan kalau kau sungguh punya kemiripan dengan Wang Baobao," kata Zhou Zhiruo.
 
@@ -314,7 +325,7 @@ Zhao Min cekikikan, lalu berkata, "Dia mirip ibunya, dan aku mirip ayahku. Kami 
 
 "Dua jendral itu kedengarannya sangat kejam," kata Zhang Wuji.
 
-"Mereka agak berbeda," kata Zhao Min. "El Temur jelas tidak mendukung tradisi suku Han. Aku sendiri belum sepenuhnya memahami hal ini. Tapi yang jelas sekolah-sekolah yang mengajarkan bahasa Han dan segala ajaran Kongzi, lengkap dengan tradisi dan budaya suku Han itu, semuanya berawal dari ide Kusala. Jendral Bayan itu agak aneh. Dia tidak menyukai orang yang mencampuradukkan budaya Mongolia dengan budaya Han, dan menentang kebijakan yang berbau suku Han di pemerintahan. Bahkan dia menghapuskan Ujian Negara yang pernah diikuti ayahku. Tindakan itu sungguh bodoh dan kolot. Tapi ternyata dia sangat membenci para pejabat yang bertindak sewenang-wenang terhadap rakyat miskin selama menjadi Darughachi di Henan. Dia tak segan-segan menghabisi para pejabat yang melakukannya."
+"Mereka agak berbeda," kata Zhao Min. "El Temur jelas tidak mendukung tradisi suku Han. Aku sendiri belum sepenuhnya memahami hal ini. Tapi yang jelas sekolah-sekolah yang mengajarkan bahasa Han dan segala ajaran Kongzi, lengkap dengan tradisi dan budaya suku Han itu, semuanya berawal dari ide Kusala. Jendral Bayan itu agak aneh. Dia tidak menyukai orang yang mencampuradukkan budaya Mongolia dengan budaya Han, dan menentang kebijakan yang berbau suku Han di pemerintahan. Bahkan dia menghapuskan ujian negara yang pernah diikuti ayahku. Tindakan itu sungguh bodoh dan kolot. Tapi ternyata dia sangat membenci para pejabat yang bertindak sewenang-wenang terhadap rakyat miskin selama menjadi Darughachi di Henan. Dia tak segan-segan menghabisi para pejabat yang melakukannya."
 
 "Oh, berarti kau saat itu meniru dia," kata Zhang Wuji. Ia teringat ketika pertama kalinya melihat Zhao Min, ia dan Delapan Panah Dewa menghabisi gerombolan prajurit Yuan yang menindas rakyat.
 
@@ -339,11 +350,11 @@ Sementara itu, Zhao Min tidak bisa menduga apa yang sedang dipikirkan oleh kedua
 
 <div class="w3-container w3-row-padding">
     <a class="w3-btn w3-hover-black w3-border w3-round"
-        href="/plitwh/jilid1/part2/">
+        href="/book2/jilid1/part2/">
         Previous
     </a>
     <a class="w3-btn w3-hover-black w3-border w3-round"
-        href="/plitwh/jilid1/part4">
+        href="/book2/jilid1/part4">
         Next
     </a>
 </div>

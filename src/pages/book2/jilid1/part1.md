@@ -1,23 +1,16 @@
 ---
 layout: ../../../layouts/Book2.astro
-title: The Promised Land in the Western Horizon
+title: Jilid 1
 author: FX. J. Adi Lima
 description: Kisah Pedang dan Golok, Buku II.
 pubDate: "2026-05-07"
 cover_image:
-  path: "/images/book2/cover.png"
+  path: "/images/plitwh/bencana-alam.png"
   alt: "Cover Book 2"
   title: "Tanah Perjanjian Di Ufuk Barat"
 ---
 
-# Bab 1
-
-<img class="w3-image justify-center" style="max-width:500px" 
-    src="/images/plitwh/bencana-alam.png"
-    title="Bencana alam di Zhongyuan akibat meluapnya Sungai Kuning"
-    alt="Bencana Alam"
-/>
-
+# Bagian 1
 ## *Songshan, 1355*
 ### Alfa Dan Omega
 
@@ -79,12 +72,14 @@ Sampai di sini Zhang Wuji segera mengajak kedua gadis itu untuk mempercepat lang
 
 ---
 
+<div  class="w3-flex-item" style="width:25%%;align-self:center;">
 <img src="/images/plitwh/SONGSHAN_1355.jpg" 
     alt="Songshan-1355"
-    style="max-width:500px"
-    class="w3-image"
+    class="w3-round"
     title="Zhao Min, Shongshan 1355"
+    style="width:100%"
 />
+</div>
 
 Setibanya perkemahan, mereka segera disambut oleh Zhang Zhong dan Fan Yao. Tetapi Zhang Wuji segera bertanya, "Berita tentang Han Shantong dan Han Lin'er itu — benar, kan?"
 

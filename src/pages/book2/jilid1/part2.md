@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/Book2.astro
-title: The Promised Land in the Western Horizon
+title: Jilid 1
 author: FX. J. Adi Lima
 description: Kisah Pedang dan Golok, Buku II.
 pubDate: "2026-05-07"
@@ -10,6 +10,7 @@ cover_image:
   title: "Tanah Perjanjian Di Ufuk Barat"
 ---
 
+# Bagian 2
 ## Chuzhou, Juli 1355
 ### *Guo Zixing Dan Zhu Yuanzhang*
 
@@ -103,11 +104,11 @@ Dengan keputusan itu, Shoubude terpaksa tinggal di Chuzhou sebagai pengawas bagi
 
 <div class="w3-container w3-row-padding">
     <a class="w3-btn w3-hover-black w3-border w3-round"
-        href="/plitwh/jilid1/part3/">
+        href="/book2/jilid1/part3/">
         Next
     </a>
     <a class="w3-btn w3-hover-black w3-border w3-round"
-        href="/plitwh/jilid1/part1">
+        href="/book2/jilid1/part1">
         Previous
     </a>
 </div>
