@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Stories.astro
+layout: ../layouts/Home.astro
 title: Trilogi Pedang dan Golok
 description: Buku ini adalah 'Trilogi' dari karya besar Jin Yong — Yitian Tulong Ji (倚天屠龍記), yang saya tulis   ulang, dengan mengandalkan akurasi peristiwa sejarah, meskipun masih berusaha mempertahankan semangat aslinya.
 pubDate: "Jul 06 2025"

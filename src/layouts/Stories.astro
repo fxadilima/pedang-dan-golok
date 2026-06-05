@@ -1,5 +1,5 @@
 ---
-import Sidebar from '../components/Sidebar.astro';
+import Sidebar from '../components/Sidebar4.astro';
 
 const { frontmatter } = Astro.props;
 
@@ -22,7 +22,9 @@ const { frontmatter } = Astro.props;
       { text: 'Preludes', href: '/preludes' },
       { text: 'Book 1', href: '/book1' },
       { text: 'Book 2', href: '/book2' },
-      { text: 'Book 3', href: '/book3' }
+      { text: 'Book 3', href: '/book3' },
+      { text: 'Book 4', href: '/book4' },
+      { text: 'Book 5', href: '/book5' }
     ]} />
 	
 	<main class="w3-container w3-padding-large" id="main" aria-label="Content">
@@ -35,7 +37,7 @@ const { frontmatter } = Astro.props;
 		
 		<slot />
 		<footer>
-			<p>&copy; 2025 My Astro Blog</p>
+			<p>Copyright, &copy; 2026 FX. Adi Lima</p>
 		</footer>
     </main>
 </body>

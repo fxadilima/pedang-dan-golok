@@ -1,3 +1,15 @@
+# Revisi Site
+
+Rupanya ini adalah Astro versi agak lama, tapi sekarang bisa run di Astro yang baru. Gimana cara kita cek versi Astro di sini?
+
+✨Rupanya ini versi cukup baru untuk tahun 2026!
+
+---
+
+Mula-mula kita perbaiki `Sidebar.astro` dulu, karena ini adalah initial attempt untuk membuat sidebar yang fleksibel dan juga berfungsi untuk ponsel dengan lumayan baik. Tapi kalau ditampilkan dalam ponsel, yang `portrait`, daftar buku yang sampai 5 ini terasa jelek, malah mengganggu. Lebih baik kita tampilkan sebagai entry point di halaman index masing-masing buku, menggunakan cara default yang di contoh Astro sendiri.
+
+Saat ini kontent Sidebar.astro adalah ini:
+
 ---
 interface Props {
     links: { text: string; href: string }[];

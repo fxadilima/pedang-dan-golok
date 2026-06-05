@@ -1,13 +1,12 @@
 ---
-layout: ../../../layouts/Book2.astro
-title: The Promised Land in the Western Horizon
-author: FX. J. Adi Lima
-description: Kisah Pedang dan Golok, Buku II.
-pubDate: "2026-05-07"
-cover_image:
-  path: "/images/plitwh/Qi-Shengniang-Xiangyang-1.png"
-  alt: "Cover Book 2"
-  title: "Tanah Perjanjian Di Ufuk Barat"
+layout: ../../layouts/Novel.astro
+title: "Buku 3: Wudang, 1355"
+author: FX. Adi Lima
+description: > 
+  "Penguasa dunia persilatan membawa golok untuk menyembelih naga,
+  jika kehendak langit tidak turun, siapa berani menentangnya?"
+
+feature_image: /images/buku-3/memasuki-xiangyang-1355.png
 ---
 
 **NOTE**

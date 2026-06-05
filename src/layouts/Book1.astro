@@ -27,6 +27,14 @@ const { frontmatter } = Astro.props;
 	
 	<main class="w3-container w3-padding-large" id="main" aria-label="Content">
 		<header>
+      <div class="w3-container w3-center">
+        <img class="w3-image w3-round" 
+          src={frontmatter.cover_image.path}
+          alt={frontmatter.cover_image.alt}
+          title={frontmatter.cover_image.title}
+          style="width:fit-content"
+        />
+      </div>
 			<h1>{frontmatter.title}</h1>
 			<p>Published on: <em><FormattedDate date={new Date(frontmatter.pubDate)}/></em></p>
 		</header>
@@ -35,7 +43,7 @@ const { frontmatter } = Astro.props;
 		
 		<slot />
 		<footer>
-			<p>&copy; 2025 My Astro Blog</p>
+			<p>Copyright, &copy; FX. Adi Lima</p>
 		</footer>
     </main>
 </body>

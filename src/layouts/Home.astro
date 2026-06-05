@@ -1,0 +1,165 @@
+---
+import Sidebar from "../components/Sidebar4.astro";
+
+// Mengosongkan properti links agar sidebar mobile/desktop bersih dari deretan buku yang mengganggu
+const globalLinks = [];
+
+const books = [
+    {
+        id: "book1",
+        title: "Book I: Haengju",
+        desc: "Masa kecil Ki Son-yeo di Goryeo, rahasia bela diri kuno, dan baptisan darah yang mengubah takdirnya.",
+        image: "/images/book1-cover.jpg", // Sesuaikan dengan path file gambarmu
+        link: "/book1/",
+    },
+    {
+        id: "book2",
+        title: "Book II: Perjalanan Laut",
+        desc: "Melarikan diri dari kejaran istana Goryeo menembus badai menuju tanah baru di barat horizon.",
+        image: "/images/book2-cover.jpg",
+        link: "/book2/",
+    },
+    {
+        id: "book3",
+        title: "Book III: Pusaran Zhongyuan",
+        desc: "Petualangan Qi Shengniang di Kaifeng, intrik awal Sekte Ming, dan pertemuan tak terduga dengan Toqto'a.",
+        image: "/images/book3-cover.jpg",
+        link: "/book3/",
+    },
+    {
+        id: "book4",
+        title: "Book IV: Benih Takdir",
+        desc: "Bangkitnya poros-poros kekuasaan baru. Ketika bara amarah Chen Youliang kecil mulai membakar Jianghu.",
+        image: "/images/book4-cover.jpg",
+        link: "/book4/",
+    },
+    {
+        id: "book5",
+        title: "Book V: Puncak Badai",
+        desc: "Klimaks persilangan takdir yang akan mengubah jalannya sejarah Dinasti Yuan dan tanah Zhongyuan.",
+        image: "/images/book5-cover.jpg",
+        link: "/book5/",
+    },
+];
+---
+
+<!doctype html>
+<html lang="id">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>The Promised Land in the Western Horizon</title>
+        <link
+            rel="stylesheet"
+            href="https://www.w3schools.com/w3css/5/w3.css"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        />
+    <style>
+        body, h1, h2, h3, h4, h5, h6 { font-family: "Georgia", serif; }
+        body { background-color: #000; color: #f1f1f1; margin: 0; padding: 0; }
+        
+        /* Kontainer Utama */
+        #main-content {
+            margin-left: 120px; /* Memberi ruang aman di sebelah kanan sidebar desktop (lebar w3-sidebar sekitar 120px) */
+            padding: 16px;
+        }
+
+        /* Penyesuaian untuk Layar Ponsel / Potret */
+        @media (max-width: 600px) {
+            #main-content {
+                margin-left: 0; /* Di ponsel, sidebar desktop hilang, jadi margin kembali ke nol */
+                padding-top: 60px; /* Memberi jarak agar tidak tertutup oleh top navbar mobile */
+            }
+        }
+
+        .book-card {
+            background-color: #1a1a1a;
+            border: 1px solid #333;
+            transition: transform 0.3s, border-color 0.3s;
+        }
+        .book-card:hover {
+            transform: translateY(-5px);
+            border-color: #888;
+        }
+        .img-container {
+            position: relative;
+            height: 220px;
+            overflow: hidden;
+        }
+        .img-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+    </head>
+<body>
+
+    <!-- Memanggil Sidebar Minimalis -->
+    <Sidebar links={globalLinks} />
+
+    <!-- KONTEN UTAMA YANG SUDAH DIPERBAIKI MARGINNYA -->
+    <div id="main-content">
+        
+        <!-- HEADER UTAMA -->
+        <header class="w3-container w3-padding-32 w3-center">
+            <h1 class="w3-jumbo w3-text-white">The Promised Land</h1>
+            <p class="w3-text-grey">In the Western Horizon</p>
+            <p class="w3-small w3-text-dark-grey">Written by: FX. Adi Lima</p>
+        </header>
+
+        <!-- GRID 6 CARDS -->
+        <div class="w3-row-padding w3-content">
+            <!-- Isi 6 Cards tetap sama seperti sebelumnya -->
+            <!-- CARD 1: Pengantar / Jurnal Utama (Eksklusif) -->
+            <div class="w3-col l4 m6 w3-margin-bottom">
+                <div class="w3-card book-card w3-padding-24 w3-container" style="height: 410px; display: flex; flex-direction: column; justify-content: space-between;">
+                    <div>
+                        <h2 class="w3-text-white" style="border-bottom: 2px solid #333; padding-bottom: 10px;"><a href="#sinopsis">Sinopsis</a></h2>
+                        <a href="#sinopsis"><img src="/images/exodus.jpg" alt="Gambar Exodus" style="width:100%" /></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CARD 2 sampai 6: Daftar Jilid Buku I - V secara Dinamis -->
+            {books.map((book) => (
+                <div class="w3-col l4 m6 w3-margin-bottom">
+                    <div class="w3-card book-card" style="height: 410px; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div class="img-container">
+                            <img src={book.image} alt={`Cover ${book.title}`} />
+                        </div>
+                        <div class="w3-container w3-padding-16" style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+                            <div>
+                                <h3 class="w3-text-white w3-large">{book.title}</h3>
+                                <p class="w3-text-grey w3-small" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
+                                    {book.desc}
+                                </p>
+                            </div>
+                            <div style="margin-top: 10px;">
+                                <a href={book.link} class="w3-button w3-black w3-block w3-border w3-border-dark-grey w3-hover-white">
+                                    Baca Selengkapnya <i class="fa fa-chevron-right w3-small"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            ))}
+        </div>
+
+        <div class="w3-content" id="sinopsis">
+            <slot />
+        </div>
+
+        <!-- FOOTER -->
+        <footer class="w3-content w3-padding-64 w3-text-grey w3-medium w3-center">
+            <p>© 2026 cersil.netlify.app - FX. Adi Lima</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
