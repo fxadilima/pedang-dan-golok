@@ -1,8 +1,7 @@
 ---
-import FormattedDate from '../components/FormattedDate.astro';
-import Sidebar from '../components/Sidebar.astro';
+import Sidebar from '../components/Sidebar4.astro';
 
-const { title, description, partNumber } = Astro.props;
+const { frontmatter } = Astro.props;
 
 ---
 
@@ -11,8 +10,8 @@ const { title, description, partNumber } = Astro.props;
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{title}</title>
-  <meta name="description" content={description}>
+  <title>{frontmatter.title}</title>
+  <meta name="description" content={frontmatter.description}>
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
   <link rel="stylesheet" href="/styles/main.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
@@ -20,26 +19,24 @@ const { title, description, partNumber } = Astro.props;
 </head>
 <body class="w3-black">
    <Sidebar links={[
-      { text: 'Home', href: '/preludes' },
+      { text: 'Blogs', href: '/blog' },
       { text: 'Book 1', href: '/book/1/1' },
       { text: 'Book 2', href: '/book/2/1' },
-      { text: 'Book 3', href: '/book/3/1' }
+      { text: 'Book 3', href: '/book/3/1' },
+      { text: 'Book 4', href: '/book/4/1' },
+      { text: 'Book 5', href: '/book/5/1' }
     ]} />
 	
-	<main class="w3-container w3-padding-64" id="main" aria-label="Content">
+	<main class="w3-container w3-padding-large" id="main" aria-label="Content">
 		<header>
-			<h1>{title}</h1>
-      <h5>Part: {partNumber}</h5>
+			<h1>{frontmatter.title}</h1>
 		</header>
-
-    <hr>
-
-    <section class="w3-panel w3-content">
-      <slot />
-    </section>
+	
+		<hr>
 		
-    <footer>
-			<p>&copy; 2025 Pedang & Golok</p>
+		<slot />
+		<footer>
+			<p>Copyright, &copy; 2026 FX. Adi Lima</p>
 		</footer>
     </main>
 </body>

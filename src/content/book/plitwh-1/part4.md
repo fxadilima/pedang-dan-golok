@@ -3,6 +3,8 @@ layout: ../../../layouts/Book2.astro
 title: The Promised Land in the Western Horizon
 author: FX. J. Adi Lima
 description: Kisah Pedang dan Golok, Buku II.
+book: 3
+chapter: 4
 pubDate: "2026-05-07"
 cover_image:
   path: "/images/plitwh/makam-di-wudang.png"

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Book1.astro
+layout: ../../layouts/Novel.astro
 title: The Guardians Of The Emperor
 author: FX. J. Adi Lima
 description: Kisah Pedang dan Golok, Buku I.
@@ -9,6 +9,7 @@ cover_image:
   alt: "Cover Book 1"
   title: "Mengawal Sang Naga"
 chapter: 1
+book: 1
 ---
 
 ## Part 1

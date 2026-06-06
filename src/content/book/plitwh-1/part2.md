@@ -8,6 +8,8 @@ cover_image:
   path: "/images/plitwh/chuzhou-juli-1355.png"
   alt: "Cover Book 2"
   title: "Tanah Perjanjian Di Ufuk Barat"
+book: 3
+chapter: 2
 ---
 
 # Bagian 2

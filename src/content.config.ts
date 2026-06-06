@@ -25,4 +25,14 @@ const preludes = defineCollection({
   }),
 });
 
-export const collections = { blog: blog, preludes: preludes };
+const book = defineCollection({
+  loader: glob({ base: './src/content/book', pattern: '**/*.{md,mdx}' }),
+  schema: z.object({
+	title: z.string(),
+	description: z.string(),
+	chapter: z.number().optional(),
+	book: z.number().optional()
+  }),
+});
+
+export const collections = { blog: blog, preludes: preludes, book: book };

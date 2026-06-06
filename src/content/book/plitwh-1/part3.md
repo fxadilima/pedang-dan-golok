@@ -3,6 +3,8 @@ layout: ../../../layouts/Book2.astro
 title: Jilid 1
 author: FX. J. Adi Lima
 description: Kisah Pedang dan Golok, Buku II.
+book: 3
+chapter: 3
 pubDate: "2026-05-07"
 cover_image:
   path: "/images/plitwh/menuju-wudang.png"

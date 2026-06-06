@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Novel.astro
+layout: ../../layouts/Book1.astro
 title: "Buku 3: Wudang, 1355"
 author: FX. Adi Lima
 description: > 
@@ -7,6 +7,8 @@ description: >
   jika kehendak langit tidak turun, siapa berani menentangnya?"
 
 feature_image: /images/buku-3/memasuki-xiangyang-1355.png
+book: 3
+chapter: 5
 ---
 
 **NOTE**

@@ -1,16 +1,17 @@
 ---
 layout: ../../../layouts/Book2.astro
-title: Jilid 1
+title: Tanah Perjanjian Di Ufuk Barat I
 author: FX. J. Adi Lima
-description: Kisah Pedang dan Golok, Buku II.
+description: Kisah Pedang dan Golok, Buku III.
 pubDate: "2026-05-07"
 cover_image:
   path: "/images/plitwh/bencana-alam.png"
   alt: "Cover Book 2"
   title: "Tanah Perjanjian Di Ufuk Barat"
+book: 3
+chapter: 1
 ---
 
-# Bagian 1
 ## *Songshan, 1355*
 ### Alfa Dan Omega
 

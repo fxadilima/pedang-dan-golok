@@ -8,6 +8,7 @@ cover_image:
   path: "/images/book1/default-cover-mengawal-sang-naga.png"
   alt: "Cover Book 1"
   title: "Mengawal Sang Naga"
+book: 1
 chapter: 2
 ---
 
