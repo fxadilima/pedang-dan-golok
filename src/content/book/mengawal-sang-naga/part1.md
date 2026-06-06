@@ -303,7 +303,5 @@ Sayangnya, kesehatan ayahnya yang terus menurun menyebabkan dirinya tidak tega b
 
 ---
 
-[Berikutnya, Bagian 2: Peri Kecil Terbang Di Angkasa](./part2.md)
-
 
 

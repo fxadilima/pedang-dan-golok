@@ -230,12 +230,8 @@ Zhao Min melirik Zhang Wuji dengan pandangan seolah-olah sedang mengatakan, "Cob
 
 <div class="w3-container w3-row-padding">
     <a class="w3-btn w3-hover-black w3-border w3-round"
-        href="/book2/jilid1/part2">
+        href="/book/3/2">
         Next
-    </a>
-    <a class="w3-btn w3-hover-black w3-border w3-round"
-        href="/plitwh">
-        Previous
     </a>
 </div>
 
